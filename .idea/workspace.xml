@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AccountsMerge1070.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CombinationSumIV564.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DiameterofBinaryTree1181.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExpressionAddOperators653.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HammingDistance835.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LargestPlusSign1044.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MeetingRooms920.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SumoffirstKevenlengthPalindromenumbers744.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IncreasingTripletSubsequence1287.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RearrangeaStringWithIntegers720.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RemoveInvalidParentheses780.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -33,10 +28,12 @@
     <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofIslandsII434.coverage" NAME="NumberofIslandsII434 Coverage Results" MODIFIED="1537382346272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$LargestRectangleinHistogram122.coverage" NAME="LargestRectangleinHistogram122 Coverage Results" MODIFIED="1537461292601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MinimumHeightTrees1298.coverage" NAME="MinimumHeightTrees1298 Coverage Results" MODIFIED="1537385969554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$IncreasingTripletSubsequence1287.coverage" NAME="IncreasingTripletSubsequence1287 Coverage Results" MODIFIED="1537975705615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSwap1095.coverage" NAME="MaximumSwap1095 Coverage Results" MODIFIED="1537796385166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -50,36 +47,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TextJustification1361.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextJustification1361.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumofLeftLeaves1254.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SumofLeftLeaves1254.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestPlusSign1044.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LargestPlusSign1044.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DiameterofBinaryTree1181.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DiameterofBinaryTree1181.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -140,11 +107,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HammingDistance835.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HammingDistance835.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HammingDistance835.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveInvalidParentheses780.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses780.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RearrangeaStringWithIntegers720.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RearrangeaStringWithIntegers720.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncreasingTripletSubsequence1287.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -165,9 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TeemoAttacking1207.py" />
-        <option value="$PROJECT_DIR$/BeautifulArrangement990.py" />
-        <option value="$PROJECT_DIR$/NumberofIslandsII434.py" />
         <option value="$PROJECT_DIR$/FindLargestValueinEachTreeRow1195.py" />
         <option value="$PROJECT_DIR$/MinimumHeightTrees1298.py" />
         <option value="$PROJECT_DIR$/UglyNumber517.py" />
@@ -216,6 +210,9 @@
         <option value="$PROJECT_DIR$/AccountsMerge1070.py" />
         <option value="$PROJECT_DIR$/MeetingRooms920.py" />
         <option value="$PROJECT_DIR$/HammingDistance835.py" />
+        <option value="$PROJECT_DIR$/RemoveInvalidParentheses780.py" />
+        <option value="$PROJECT_DIR$/RearrangeaStringWithIntegers720.py" />
+        <option value="$PROJECT_DIR$/IncreasingTripletSubsequence1287.py" />
       </list>
     </option>
   </component>
@@ -226,8 +223,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="64" />
+    <option name="x" value="651" />
+    <option name="y" value="113" />
     <option name="width" value="803" />
     <option name="height" value="759" />
   </component>
@@ -294,43 +291,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MeetingRooms920">
-    <configuration default="false" name="ExclusiveTimeofFunctions1116" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="NumberofLongestIncreasingSubsequence1903" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumberofLongestIncreasingSubsequence1903.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.IncreasingTripletSubsequence1287">
     <configuration default="false" name="AddandSearchWordDatastructuredesign473" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,6 +342,42 @@
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeetingRooms920.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RearrangeaStringWithIntegers720" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RearrangeaStringWithIntegers720.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IncreasingTripletSubsequence1287" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IncreasingTripletSubsequence1287.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -594,19 +591,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ExclusiveTimeofFunctions1116" />
-      <item index="1" class="java.lang.String" itemvalue="Python.NumberofLongestIncreasingSubsequence1903" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AddandSearchWordDatastructuredesign473" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ExpressionAddOperators653" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MeetingRooms920" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AddandSearchWordDatastructuredesign473" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ExpressionAddOperators653" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MeetingRooms920" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RearrangeaStringWithIntegers720" />
+      <item index="4" class="java.lang.String" itemvalue="Python.IncreasingTripletSubsequence1287" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MeetingRooms920" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ExpressionAddOperators653" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AddandSearchWordDatastructuredesign473" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NumberofLongestIncreasingSubsequence1903" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ExclusiveTimeofFunctions1116" />
+        <item index="0" class="java.lang.String" itemvalue="Python.IncreasingTripletSubsequence1287" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RearrangeaStringWithIntegers720" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MeetingRooms920" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ExpressionAddOperators653" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AddandSearchWordDatastructuredesign473" />
       </list>
     </recent_temporary>
   </component>
@@ -624,7 +621,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="64" width="803" height="759" extended-state="1" />
+    <frame x="651" y="113" width="803" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20893562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -633,7 +630,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35575485" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35575485" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -759,34 +756,22 @@
           <line>32</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/RearrangeaStringWithIntegers720.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UglyNumber517.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MinimumHeightTrees1298.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindLargestValueinEachTreeRow1195.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NumberofIslandsII434.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
@@ -1146,8 +1131,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HammingDistance835.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses780.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RearrangeaStringWithIntegers720.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
           <folding />
         </state>
       </provider>
