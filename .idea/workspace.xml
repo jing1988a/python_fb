@@ -2,90 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/CatandMouse913.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/WordSubsets916.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3Sum57.py" afterPath="$PROJECT_DIR$/fb/3Sum57.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/4Sum58.py" afterPath="$PROJECT_DIR$/fb/4Sum58.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AccountsMerge1070.py" afterPath="$PROJECT_DIR$/fb/AccountsMerge1070.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AddandSearchWordDatastructuredesign473.py" afterPath="$PROJECT_DIR$/fb/AddandSearchWordDatastructuredesign473.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BeautifulArrangement990.py" afterPath="$PROJECT_DIR$/fb/BeautifulArrangement990.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py" afterPath="$PROJECT_DIR$/fb/BestTimetoBuyandSellStockIII151.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockwithTransactionFee1000.py" afterPath="$PROJECT_DIR$/fb/BestTimetoBuyandSellStockwithTransactionFee1000.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePostorderTraversal68.py" afterPath="$PROJECT_DIR$/fb/BinaryTreePostorderTraversal68.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePreorderTraversal66.py" afterPath="$PROJECT_DIR$/fb/BinaryTreePreorderTraversal66.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CalculateMaximumValue719.py" afterPath="$PROJECT_DIR$/fb/CalculateMaximumValue719.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CombinationSumIV564.py" afterPath="$PROJECT_DIR$/fb/CombinationSumIV564.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Combinations152.py" afterPath="$PROJECT_DIR$/fb/Combinations152.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ContiguousArray994.py" afterPath="$PROJECT_DIR$/fb/ContiguousArray994.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ContinuousSubarraySum402.py" afterPath="$PROJECT_DIR$/fb/ContinuousSubarraySum402.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CountandSay420.py" afterPath="$PROJECT_DIR$/fb/CountandSay420.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DecodeString575.py" afterPath="$PROJECT_DIR$/fb/DecodeString575.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DiameterofBinaryTree1181.py" afterPath="$PROJECT_DIR$/fb/DiameterofBinaryTree1181.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ExcelSheetColumnTitle1350.py" afterPath="$PROJECT_DIR$/fb/ExcelSheetColumnTitle1350.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py" afterPath="$PROJECT_DIR$/fb/ExclusiveTimeofFunctions1116.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ExpressionAddOperators653.py" afterPath="$PROJECT_DIR$/fb/ExpressionAddOperators653.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindLargestValueinEachTreeRow1195.py" afterPath="$PROJECT_DIR$/fb/FindLargestValueinEachTreeRow1195.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindtheCelebrity654.py" afterPath="$PROJECT_DIR$/fb/FindtheCelebrity654.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GraphValidTree178.py" afterPath="$PROJECT_DIR$/fb/GraphValidTree178.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HIndex1304.py" afterPath="$PROJECT_DIR$/fb/HIndex1304.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HammingDistance835.py" afterPath="$PROJECT_DIR$/fb/HammingDistance835.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IncreasingTripletSubsequence1287.py" afterPath="$PROJECT_DIR$/fb/IncreasingTripletSubsequence1287.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IntegertoEnglishWords1305.py" afterPath="$PROJECT_DIR$/fb/IntegertoEnglishWords1305.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/InterleavingString29.py" afterPath="$PROJECT_DIR$/fb/InterleavingString29.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IsGraphBipartite1031.py" afterPath="$PROJECT_DIR$/fb/IsGraphBipartite1031.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LargestPlusSign1044.py" afterPath="$PROJECT_DIR$/fb/LargestPlusSign1044.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LargestRectangleinHistogram122.py" afterPath="$PROJECT_DIR$/fb/LargestRectangleinHistogram122.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LengthofLastWord422.py" afterPath="$PROJECT_DIR$/fb/LengthofLastWord422.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LetterCasePermutation1032.py" afterPath="$PROJECT_DIR$/fb/LetterCasePermutation1032.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestContinuousIncreasingSubsequence397.py" afterPath="$PROJECT_DIR$/fb/LongestContinuousIncreasingSubsequence397.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LowestCommonAncestorIII578.py" afterPath="$PROJECT_DIR$/fb/LowestCommonAncestorIII578.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximalSquare436.py" afterPath="$PROJECT_DIR$/fb/MaximalSquare436.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumGap400.py" afterPath="$PROJECT_DIR$/fb/MaximumGap400.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSizeSubarraySumEqualsk911.py" afterPath="$PROJECT_DIR$/fb/MaximumSizeSubarraySumEqualsk911.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py" afterPath="$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSwap1095.py" afterPath="$PROJECT_DIR$/fb/MaximumSwap1095.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MeetingRooms920.py" afterPath="$PROJECT_DIR$/fb/MeetingRooms920.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MergeIntervals156.py" afterPath="$PROJECT_DIR$/fb/MergeIntervals156.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumHeightTrees1298.py" afterPath="$PROJECT_DIR$/fb/MinimumHeightTrees1298.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumPathSum110.py" afterPath="$PROJECT_DIR$/fb/MinimumPathSum110.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumSizeSubarraySum406.py" afterPath="$PROJECT_DIR$/fb/MinimumSizeSubarraySum406.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MissingNumber196.py" afterPath="$PROJECT_DIR$/fb/MissingNumber196.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveZeroes539.py" afterPath="$PROJECT_DIR$/fb/MoveZeroes539.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NQueens33.py" afterPath="$PROJECT_DIR$/fb/NQueens33.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberofIslandsII434.py" afterPath="$PROJECT_DIR$/fb/NumberofIslandsII434.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberofLongestIncreasingSubsequence1903.py" afterPath="$PROJECT_DIR$/fb/NumberofLongestIncreasingSubsequence1903.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PartitionList96.py" afterPath="$PROJECT_DIR$/fb/PartitionList96.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Powxn428.py" afterPath="$PROJECT_DIR$/fb/Powxn428.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RearrangeaStringWithIntegers720.py" afterPath="$PROJECT_DIR$/fb/RearrangeaStringWithIntegers720.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RecoverBinarySearchTree691.py" afterPath="$PROJECT_DIR$/fb/RecoverBinarySearchTree691.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RectangleArea454.py" afterPath="$PROJECT_DIR$/fb/RectangleArea454.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedList112.py" afterPath="$PROJECT_DIR$/fb/RemoveDuplicatesfromSortedList112.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveInvalidParentheses780.py" afterPath="$PROJECT_DIR$/fb/RemoveInvalidParentheses780.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveLinkedListElements452.py" afterPath="$PROJECT_DIR$/fb/RemoveLinkedListElements452.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReorderList99.py" afterPath="$PROJECT_DIR$/fb/ReorderList99.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedList35.py" afterPath="$PROJECT_DIR$/fb/ReverseLinkedList35.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedListII36.py" afterPath="$PROJECT_DIR$/fb/ReverseLinkedListII36.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateBitsLeft723.py" afterPath="$PROJECT_DIR$/fb/RotateBitsLeft723.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateList170.py" afterPath="$PROJECT_DIR$/fb/RotateList170.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInsertPosition60.py" afterPath="$PROJECT_DIR$/fb/SearchInsertPosition60.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SerializeandDeserializeBinaryTree7.py" afterPath="$PROJECT_DIR$/fb/SerializeandDeserializeBinaryTree7.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SetMatrixZeroes162.py" afterPath="$PROJECT_DIR$/fb/SetMatrixZeroes162.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SplitArrayLargestSum1251.py" afterPath="$PROJECT_DIR$/fb/SplitArrayLargestSum1251.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SubsetsII18.py" afterPath="$PROJECT_DIR$/fb/SubsetsII18.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SubtreeofAnotherTree1165.py" afterPath="$PROJECT_DIR$/fb/SubtreeofAnotherTree1165.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SumofLeftLeaves1254.py" afterPath="$PROJECT_DIR$/fb/SumofLeftLeaves1254.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SumoffirstKevenlengthPalindromenumbers744.py" afterPath="$PROJECT_DIR$/fb/SumoffirstKevenlengthPalindromenumbers744.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TargetSum1208.py" afterPath="$PROJECT_DIR$/fb/TargetSum1208.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TaskScheduler945.py" afterPath="$PROJECT_DIR$/fb/TaskScheduler945.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TeemoAttacking1207.py" afterPath="$PROJECT_DIR$/fb/TeemoAttacking1207.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TextJustification1361.py" afterPath="$PROJECT_DIR$/fb/TextJustification1361.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TotalHammingDistance1217.py" afterPath="$PROJECT_DIR$/fb/TotalHammingDistance1217.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Triangle109.py" afterPath="$PROJECT_DIR$/fb/Triangle109.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSumIVInputisaBST689.py" afterPath="$PROJECT_DIR$/fb/TwoSumIVInputisaBST689.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/UglyNumber517.py" afterPath="$PROJECT_DIR$/fb/UglyNumber517.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidPalindromeII891.py" afterPath="$PROJECT_DIR$/fb/ValidPalindromeII891.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/OnlineElection911.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SmallestRangeI908.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SmallestRangeII910.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SnakesandLadders909.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SumofSubarrayMinimums907.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -101,6 +22,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_fb$MaximumSumof3NonOverlappingSubarrays1083.coverage" NAME="MaximumSumof3NonOverlappingSubarrays1083 Coverage Results" MODIFIED="1537799713797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$OnlineElection911.coverage" NAME="OnlineElection911 Coverage Results" MODIFIED="1538418607892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofLongestIncreasingSubsequence1903.coverage" NAME="NumberofLongestIncreasingSubsequence1903 Coverage Results" MODIFIED="1537804580082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$InterleavingString29.coverage" NAME="InterleavingString29 Coverage Results" MODIFIED="1538058260431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ExclusiveTimeofFunctions1116.coverage" NAME="ExclusiveTimeofFunctions1116 Coverage Results" MODIFIED="1537804138126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -139,18 +61,70 @@
       <file leaf-file-name="XofaKindinaDeckofCards914.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="690">
               <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatandMouse913.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CatandMouse913.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineElection911.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/OnlineElection911.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="e#1125#1138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallestRangeII910.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeII910.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SnakesandLadders909.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/SnakesandLadders909.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallestRangeI908.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeI908.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumofSubarrayMinimums907.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SumofSubarrayMinimums907.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -171,12 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LengthofLastWord422.py" />
-        <option value="$PROJECT_DIR$/Triangle109.py" />
-        <option value="$PROJECT_DIR$/RemoveLinkedListElements452.py" />
-        <option value="$PROJECT_DIR$/RectangleArea454.py" />
-        <option value="$PROJECT_DIR$/LowestCommonAncestorIII573.py" />
-        <option value="$PROJECT_DIR$/ValidPalindromeII891.py" />
         <option value="$PROJECT_DIR$/CalculateMaximumValue719.py" />
         <option value="$PROJECT_DIR$/DecodeString575.py" />
         <option value="$PROJECT_DIR$/ContinuousSubarraySum402.py" />
@@ -222,6 +190,12 @@
         <option value="$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py" />
         <option value="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
         <option value="$PROJECT_DIR$/900plus/CatandMouse913.py" />
+        <option value="$PROJECT_DIR$/OnlineElection911.py" />
+        <option value="$PROJECT_DIR$/900plus/OnlineElection911.py" />
+        <option value="$PROJECT_DIR$/900plus/SmallestRangeII910.py" />
+        <option value="$PROJECT_DIR$/900plus/SnakesandLadders909.py" />
+        <option value="$PROJECT_DIR$/900plus/SmallestRangeI908.py" />
+        <option value="$PROJECT_DIR$/SumofSubarrayMinimums907.py" />
       </list>
     </option>
   </component>
@@ -232,10 +206,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="318" />
-    <option name="y" value="41" />
-    <option name="width" value="1030" />
-    <option name="height" value="731" />
+    <option name="x" value="405" />
+    <option name="y" value="23" />
+    <option name="width" value="1001" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -262,11 +236,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,28 +276,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/900plus" />
       <recent name="$PROJECT_DIR$/fb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.XofaKindinaDeckofCards914">
-    <configuration default="false" name="NQueens33" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fb/NQueens33.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.OnlineElection911">
     <configuration default="false" name="InterleavingString29" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,6 +349,24 @@
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OnlineElection911" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/900plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/OnlineElection911.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -588,19 +580,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NQueens33" />
-      <item index="1" class="java.lang.String" itemvalue="Python.InterleavingString29" />
-      <item index="2" class="java.lang.String" itemvalue="Python.WordSubsets916" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
-      <item index="4" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+      <item index="0" class="java.lang.String" itemvalue="Python.InterleavingString29" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WordSubsets916" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+      <item index="3" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+      <item index="4" class="java.lang.String" itemvalue="Python.OnlineElection911" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
-        <item index="2" class="java.lang.String" itemvalue="Python.WordSubsets916" />
-        <item index="3" class="java.lang.String" itemvalue="Python.InterleavingString29" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NQueens33" />
+        <item index="0" class="java.lang.String" itemvalue="Python.OnlineElection911" />
+        <item index="1" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+        <item index="3" class="java.lang.String" itemvalue="Python.WordSubsets916" />
+        <item index="4" class="java.lang.String" itemvalue="Python.InterleavingString29" />
       </list>
     </recent_temporary>
   </component>
@@ -618,21 +610,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="318" y="41" width="1030" height="731" extended-state="0" />
+    <frame x="405" y="23" width="1001" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77974087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18769552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38377535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42027026" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2724359" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3310811" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -823,47 +815,22 @@
           <line>55</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/OnlineElection911.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/OnlineElection911.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fb/RemoveLinkedListElements452.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/RectangleArea454.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/LowestCommonAncestorIII578.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/ValidPalindromeII891.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/CalculateMaximumValue719.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fb/DecodeString575.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1038,13 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fb/ExpressionAddOperators653.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1101,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,7 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,7 +1122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,7 +1151,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="690">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="20" />
           <folding />
         </state>
@@ -1203,8 +1159,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/OnlineElection911.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#1125#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeII910.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/SnakesandLadders909.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeI908.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumofSubarrayMinimums907.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
