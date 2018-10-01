@@ -2,9 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryTreePostorderTraversal68.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterleavingString29.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NQueens33.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/CatandMouse913.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/WordSubsets916.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3Sum57.py" afterPath="$PROJECT_DIR$/fb/3Sum57.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4Sum58.py" afterPath="$PROJECT_DIR$/fb/4Sum58.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AccountsMerge1070.py" afterPath="$PROJECT_DIR$/fb/AccountsMerge1070.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AddandSearchWordDatastructuredesign473.py" afterPath="$PROJECT_DIR$/fb/AddandSearchWordDatastructuredesign473.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BeautifulArrangement990.py" afterPath="$PROJECT_DIR$/fb/BeautifulArrangement990.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py" afterPath="$PROJECT_DIR$/fb/BestTimetoBuyandSellStockIII151.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BestTimetoBuyandSellStockwithTransactionFee1000.py" afterPath="$PROJECT_DIR$/fb/BestTimetoBuyandSellStockwithTransactionFee1000.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePostorderTraversal68.py" afterPath="$PROJECT_DIR$/fb/BinaryTreePostorderTraversal68.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BinaryTreePreorderTraversal66.py" afterPath="$PROJECT_DIR$/fb/BinaryTreePreorderTraversal66.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CalculateMaximumValue719.py" afterPath="$PROJECT_DIR$/fb/CalculateMaximumValue719.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CombinationSumIV564.py" afterPath="$PROJECT_DIR$/fb/CombinationSumIV564.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Combinations152.py" afterPath="$PROJECT_DIR$/fb/Combinations152.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContiguousArray994.py" afterPath="$PROJECT_DIR$/fb/ContiguousArray994.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ContinuousSubarraySum402.py" afterPath="$PROJECT_DIR$/fb/ContinuousSubarraySum402.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CountandSay420.py" afterPath="$PROJECT_DIR$/fb/CountandSay420.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DecodeString575.py" afterPath="$PROJECT_DIR$/fb/DecodeString575.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DiameterofBinaryTree1181.py" afterPath="$PROJECT_DIR$/fb/DiameterofBinaryTree1181.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ExcelSheetColumnTitle1350.py" afterPath="$PROJECT_DIR$/fb/ExcelSheetColumnTitle1350.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py" afterPath="$PROJECT_DIR$/fb/ExclusiveTimeofFunctions1116.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ExpressionAddOperators653.py" afterPath="$PROJECT_DIR$/fb/ExpressionAddOperators653.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FindLargestValueinEachTreeRow1195.py" afterPath="$PROJECT_DIR$/fb/FindLargestValueinEachTreeRow1195.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FindtheCelebrity654.py" afterPath="$PROJECT_DIR$/fb/FindtheCelebrity654.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GraphValidTree178.py" afterPath="$PROJECT_DIR$/fb/GraphValidTree178.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HIndex1304.py" afterPath="$PROJECT_DIR$/fb/HIndex1304.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HammingDistance835.py" afterPath="$PROJECT_DIR$/fb/HammingDistance835.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/IncreasingTripletSubsequence1287.py" afterPath="$PROJECT_DIR$/fb/IncreasingTripletSubsequence1287.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/IntegertoEnglishWords1305.py" afterPath="$PROJECT_DIR$/fb/IntegertoEnglishWords1305.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/InterleavingString29.py" afterPath="$PROJECT_DIR$/fb/InterleavingString29.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/IsGraphBipartite1031.py" afterPath="$PROJECT_DIR$/fb/IsGraphBipartite1031.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LargestPlusSign1044.py" afterPath="$PROJECT_DIR$/fb/LargestPlusSign1044.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LargestRectangleinHistogram122.py" afterPath="$PROJECT_DIR$/fb/LargestRectangleinHistogram122.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LengthofLastWord422.py" afterPath="$PROJECT_DIR$/fb/LengthofLastWord422.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LetterCasePermutation1032.py" afterPath="$PROJECT_DIR$/fb/LetterCasePermutation1032.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LongestContinuousIncreasingSubsequence397.py" afterPath="$PROJECT_DIR$/fb/LongestContinuousIncreasingSubsequence397.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LowestCommonAncestorIII578.py" afterPath="$PROJECT_DIR$/fb/LowestCommonAncestorIII578.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximalSquare436.py" afterPath="$PROJECT_DIR$/fb/MaximalSquare436.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumGap400.py" afterPath="$PROJECT_DIR$/fb/MaximumGap400.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSizeSubarraySumEqualsk911.py" afterPath="$PROJECT_DIR$/fb/MaximumSizeSubarraySumEqualsk911.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py" afterPath="$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MaximumSwap1095.py" afterPath="$PROJECT_DIR$/fb/MaximumSwap1095.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MeetingRooms920.py" afterPath="$PROJECT_DIR$/fb/MeetingRooms920.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MergeIntervals156.py" afterPath="$PROJECT_DIR$/fb/MergeIntervals156.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumHeightTrees1298.py" afterPath="$PROJECT_DIR$/fb/MinimumHeightTrees1298.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumPathSum110.py" afterPath="$PROJECT_DIR$/fb/MinimumPathSum110.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MinimumSizeSubarraySum406.py" afterPath="$PROJECT_DIR$/fb/MinimumSizeSubarraySum406.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MissingNumber196.py" afterPath="$PROJECT_DIR$/fb/MissingNumber196.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveZeroes539.py" afterPath="$PROJECT_DIR$/fb/MoveZeroes539.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NQueens33.py" afterPath="$PROJECT_DIR$/fb/NQueens33.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberofIslandsII434.py" afterPath="$PROJECT_DIR$/fb/NumberofIslandsII434.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/NumberofLongestIncreasingSubsequence1903.py" afterPath="$PROJECT_DIR$/fb/NumberofLongestIncreasingSubsequence1903.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PartitionList96.py" afterPath="$PROJECT_DIR$/fb/PartitionList96.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Powxn428.py" afterPath="$PROJECT_DIR$/fb/Powxn428.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RearrangeaStringWithIntegers720.py" afterPath="$PROJECT_DIR$/fb/RearrangeaStringWithIntegers720.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RecoverBinarySearchTree691.py" afterPath="$PROJECT_DIR$/fb/RecoverBinarySearchTree691.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RectangleArea454.py" afterPath="$PROJECT_DIR$/fb/RectangleArea454.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveDuplicatesfromSortedList112.py" afterPath="$PROJECT_DIR$/fb/RemoveDuplicatesfromSortedList112.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveInvalidParentheses780.py" afterPath="$PROJECT_DIR$/fb/RemoveInvalidParentheses780.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RemoveLinkedListElements452.py" afterPath="$PROJECT_DIR$/fb/RemoveLinkedListElements452.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReorderList99.py" afterPath="$PROJECT_DIR$/fb/ReorderList99.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedList35.py" afterPath="$PROJECT_DIR$/fb/ReverseLinkedList35.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ReverseLinkedListII36.py" afterPath="$PROJECT_DIR$/fb/ReverseLinkedListII36.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateBitsLeft723.py" afterPath="$PROJECT_DIR$/fb/RotateBitsLeft723.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/RotateList170.py" afterPath="$PROJECT_DIR$/fb/RotateList170.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchInsertPosition60.py" afterPath="$PROJECT_DIR$/fb/SearchInsertPosition60.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SerializeandDeserializeBinaryTree7.py" afterPath="$PROJECT_DIR$/fb/SerializeandDeserializeBinaryTree7.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SetMatrixZeroes162.py" afterPath="$PROJECT_DIR$/fb/SetMatrixZeroes162.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SplitArrayLargestSum1251.py" afterPath="$PROJECT_DIR$/fb/SplitArrayLargestSum1251.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SubsetsII18.py" afterPath="$PROJECT_DIR$/fb/SubsetsII18.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SubtreeofAnotherTree1165.py" afterPath="$PROJECT_DIR$/fb/SubtreeofAnotherTree1165.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SumofLeftLeaves1254.py" afterPath="$PROJECT_DIR$/fb/SumofLeftLeaves1254.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SumoffirstKevenlengthPalindromenumbers744.py" afterPath="$PROJECT_DIR$/fb/SumoffirstKevenlengthPalindromenumbers744.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TargetSum1208.py" afterPath="$PROJECT_DIR$/fb/TargetSum1208.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TaskScheduler945.py" afterPath="$PROJECT_DIR$/fb/TaskScheduler945.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TeemoAttacking1207.py" afterPath="$PROJECT_DIR$/fb/TeemoAttacking1207.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TextJustification1361.py" afterPath="$PROJECT_DIR$/fb/TextJustification1361.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TotalHammingDistance1217.py" afterPath="$PROJECT_DIR$/fb/TotalHammingDistance1217.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Triangle109.py" afterPath="$PROJECT_DIR$/fb/Triangle109.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TwoSumIVInputisaBST689.py" afterPath="$PROJECT_DIR$/fb/TwoSumIVInputisaBST689.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UglyNumber517.py" afterPath="$PROJECT_DIR$/fb/UglyNumber517.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ValidPalindromeII891.py" afterPath="$PROJECT_DIR$/fb/ValidPalindromeII891.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -23,24 +104,27 @@
     <SUITE FILE_PATH="coverage/python_fb$NumberofLongestIncreasingSubsequence1903.coverage" NAME="NumberofLongestIncreasingSubsequence1903 Coverage Results" MODIFIED="1537804580082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$InterleavingString29.coverage" NAME="InterleavingString29 Coverage Results" MODIFIED="1538058260431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ExclusiveTimeofFunctions1116.coverage" NAME="ExclusiveTimeofFunctions1116 Coverage Results" MODIFIED="1537804138126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$MeetingRooms920.coverage" NAME="MeetingRooms920 Coverage Results" MODIFIED="1537968851999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$BeautifulArrangement990.coverage" NAME="BeautifulArrangement990 Coverage Results" MODIFIED="1537379232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockIII151.coverage" NAME="BestTimetoBuyandSellStockIII151 Coverage Results" MODIFIED="1538051937250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$AddandSearchWordDatastructuredesign473.coverage" NAME="AddandSearchWordDatastructuredesign473 Coverage Results" MODIFIED="1537886876110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$Combinations152.coverage" NAME="Combinations152 Coverage Results" MODIFIED="1538054436459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofIslandsII434.coverage" NAME="NumberofIslandsII434 Coverage Results" MODIFIED="1537382346272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$LargestRectangleinHistogram122.coverage" NAME="LargestRectangleinHistogram122 Coverage Results" MODIFIED="1537461292601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MinimumHeightTrees1298.coverage" NAME="MinimumHeightTrees1298 Coverage Results" MODIFIED="1537385969554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$IncreasingTripletSubsequence1287.coverage" NAME="IncreasingTripletSubsequence1287 Coverage Results" MODIFIED="1537975705615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$SplitArrayLargestSum1251.coverage" NAME="SplitArrayLargestSum1251 Coverage Results" MODIFIED="1538049775958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSwap1095.coverage" NAME="MaximumSwap1095 Coverage Results" MODIFIED="1537796385166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$NQueens33.coverage" NAME="NQueens33 Coverage Results" MODIFIED="1538056889105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$XofaKindinaDeckofCards914.coverage" NAME="XofaKindinaDeckofCards914 Coverage Results" MODIFIED="1538402531309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$MeetingRooms920.coverage" NAME="MeetingRooms920 Coverage Results" MODIFIED="1537968851999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$WordSubsets916.coverage" NAME="WordSubsets916 Coverage Results" MODIFIED="1538398031098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$AddandSearchWordDatastructuredesign473.coverage" NAME="AddandSearchWordDatastructuredesign473 Coverage Results" MODIFIED="1537886876110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$Combinations152.coverage" NAME="Combinations152 Coverage Results" MODIFIED="1538054436459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$PartitionArrayintoDisjointIntervals915.coverage" NAME="PartitionArrayintoDisjointIntervals915 Coverage Results" MODIFIED="1538399773982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -52,101 +136,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IncreasingTripletSubsequence1287.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py">
+      <file leaf-file-name="XofaKindinaDeckofCards914.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="95">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoveZeroes539.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MoveZeroes539.py">
+      <file leaf-file-name="CatandMouse913.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SplitArrayLargestSum1251.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SplitArrayLargestSum1251.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BestTimetoBuyandSellStockIII151.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximumGap400.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaximumGap400.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PartitionList96.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PartitionList96.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Combinations152.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Combinations152.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NQueens33.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NQueens33.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterleavingString29.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterleavingString29.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreePostorderTraversal68.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryTreePostorderTraversal68.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -167,10 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LargestRectangleinHistogram122.py" />
-        <option value="$PROJECT_DIR$/MinimumPathSum110.py" />
-        <option value="$PROJECT_DIR$/ReorderList99.py" />
-        <option value="$PROJECT_DIR$/RemoveDuplicatesfromSortedList112.py" />
         <option value="$PROJECT_DIR$/LengthofLastWord422.py" />
         <option value="$PROJECT_DIR$/Triangle109.py" />
         <option value="$PROJECT_DIR$/RemoveLinkedListElements452.py" />
@@ -218,6 +218,10 @@
         <option value="$PROJECT_DIR$/NQueens33.py" />
         <option value="$PROJECT_DIR$/InterleavingString29.py" />
         <option value="$PROJECT_DIR$/BinaryTreePostorderTraversal68.py" />
+        <option value="$PROJECT_DIR$/900plus/WordSubsets916.py" />
+        <option value="$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py" />
+        <option value="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
+        <option value="$PROJECT_DIR$/900plus/CatandMouse913.py" />
       </list>
     </option>
   </component>
@@ -228,10 +232,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="559" />
-    <option name="y" value="23" />
-    <option name="width" value="875" />
-    <option name="height" value="823" />
+    <option name="x" value="318" />
+    <option name="y" value="41" />
+    <option name="width" value="1030" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -259,27 +263,10 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,61 +283,12 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InterleavingString29">
-    <configuration default="false" name="SplitArrayLargestSum1251" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SplitArrayLargestSum1251.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BestTimetoBuyandSellStockIII151" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Combinations152" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Combinations152.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fb" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.XofaKindinaDeckofCards914">
     <configuration default="false" name="NQueens33" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +302,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NQueens33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fb/NQueens33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -382,7 +320,61 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterleavingString29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fb/InterleavingString29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordSubsets916" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/900plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/WordSubsets916.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PartitionArrayintoDisjointIntervals915" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/900plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="XofaKindinaDeckofCards914" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/900plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -596,19 +588,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SplitArrayLargestSum1251" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BestTimetoBuyandSellStockIII151" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Combinations152" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NQueens33" />
-      <item index="4" class="java.lang.String" itemvalue="Python.InterleavingString29" />
+      <item index="0" class="java.lang.String" itemvalue="Python.NQueens33" />
+      <item index="1" class="java.lang.String" itemvalue="Python.InterleavingString29" />
+      <item index="2" class="java.lang.String" itemvalue="Python.WordSubsets916" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+      <item index="4" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.InterleavingString29" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NQueens33" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Combinations152" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BestTimetoBuyandSellStockIII151" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SplitArrayLargestSum1251" />
+        <item index="0" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+        <item index="2" class="java.lang.String" itemvalue="Python.WordSubsets916" />
+        <item index="3" class="java.lang.String" itemvalue="Python.InterleavingString29" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NQueens33" />
       </list>
     </recent_temporary>
   </component>
@@ -626,21 +618,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="559" y="23" width="875" height="823" extended-state="0" />
+    <frame x="318" y="41" width="1030" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14045618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77974087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32469305" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38377535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4489164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2724359" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -657,235 +649,229 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/BeautifulArrangement990.py</url>
+          <url>file://$PROJECT_DIR$/fb/BeautifulArrangement990.py</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/NumberofIslandsII434.py</url>
+          <url>file://$PROJECT_DIR$/fb/NumberofIslandsII434.py</url>
           <line>20</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/NumberofIslandsII434.py</url>
+          <url>file://$PROJECT_DIR$/fb/NumberofIslandsII434.py</url>
           <line>56</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumHeightTrees1298.py</url>
+          <url>file://$PROJECT_DIR$/fb/MinimumHeightTrees1298.py</url>
           <line>36</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumHeightTrees1298.py</url>
+          <url>file://$PROJECT_DIR$/fb/MinimumHeightTrees1298.py</url>
           <line>10</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/4Sum58.py</url>
+          <url>file://$PROJECT_DIR$/fb/4Sum58.py</url>
           <line>35</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/LargestRectangleinHistogram122.py</url>
+          <url>file://$PROJECT_DIR$/fb/LargestRectangleinHistogram122.py</url>
           <line>26</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumPathSum110.py</url>
+          <url>file://$PROJECT_DIR$/fb/MinimumPathSum110.py</url>
           <line>26</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumPathSum110.py</url>
+          <url>file://$PROJECT_DIR$/fb/MinimumPathSum110.py</url>
           <line>14</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MinimumPathSum110.py</url>
+          <url>file://$PROJECT_DIR$/fb/MinimumPathSum110.py</url>
           <line>19</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ContinuousSubarraySum402.py</url>
+          <url>file://$PROJECT_DIR$/fb/ContinuousSubarraySum402.py</url>
           <line>31</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ContinuousSubarraySum402.py</url>
+          <url>file://$PROJECT_DIR$/fb/ContinuousSubarraySum402.py</url>
           <line>18</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MaximumSwap1095.py</url>
+          <url>file://$PROJECT_DIR$/fb/MaximumSwap1095.py</url>
           <line>30</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py</url>
+          <url>file://$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py</url>
           <line>55</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py</url>
+          <url>file://$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py</url>
           <line>45</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py</url>
+          <url>file://$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py</url>
           <line>46</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py</url>
+          <url>file://$PROJECT_DIR$/fb/ExclusiveTimeofFunctions1116.py</url>
           <line>39</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/NumberofLongestIncreasingSubsequence1903.py</url>
+          <url>file://$PROJECT_DIR$/fb/NumberofLongestIncreasingSubsequence1903.py</url>
           <line>30</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/AddandSearchWordDatastructuredesign473.py</url>
+          <url>file://$PROJECT_DIR$/fb/AddandSearchWordDatastructuredesign473.py</url>
           <line>54</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/AddandSearchWordDatastructuredesign473.py</url>
+          <url>file://$PROJECT_DIR$/fb/AddandSearchWordDatastructuredesign473.py</url>
           <line>50</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExpressionAddOperators653.py</url>
+          <url>file://$PROJECT_DIR$/fb/ExpressionAddOperators653.py</url>
           <line>32</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/RearrangeaStringWithIntegers720.py</url>
+          <url>file://$PROJECT_DIR$/fb/RearrangeaStringWithIntegers720.py</url>
           <line>20</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py</url>
+          <url>file://$PROJECT_DIR$/fb/IncreasingTripletSubsequence1287.py</url>
           <line>24</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/SplitArrayLargestSum1251.py</url>
+          <url>file://$PROJECT_DIR$/fb/SplitArrayLargestSum1251.py</url>
           <line>37</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py</url>
+          <url>file://$PROJECT_DIR$/fb/BestTimetoBuyandSellStockIII151.py</url>
           <line>40</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py</url>
+          <url>file://$PROJECT_DIR$/fb/BestTimetoBuyandSellStockIII151.py</url>
           <line>13</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/Combinations152.py</url>
+          <url>file://$PROJECT_DIR$/fb/Combinations152.py</url>
           <line>24</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/NQueens33.py</url>
+          <url>file://$PROJECT_DIR$/fb/NQueens33.py</url>
           <line>35</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/InterleavingString29.py</url>
+          <url>file://$PROJECT_DIR$/fb/InterleavingString29.py</url>
           <line>51</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/WordSubsets916.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/WordSubsets916.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/WordSubsets916.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="38" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinimumPathSum110.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReorderList99.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedList112.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LengthofLastWord422.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Triangle109.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveLinkedListElements452.py">
+    <entry file="file://$PROJECT_DIR$/fb/RemoveLinkedListElements452.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RectangleArea454.py">
+    <entry file="file://$PROJECT_DIR$/fb/RectangleArea454.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LowestCommonAncestorIII578.py">
+    <entry file="file://$PROJECT_DIR$/fb/LowestCommonAncestorIII578.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ValidPalindromeII891.py">
+    <entry file="file://$PROJECT_DIR$/fb/ValidPalindromeII891.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculateMaximumValue719.py">
+    <entry file="file://$PROJECT_DIR$/fb/CalculateMaximumValue719.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DecodeString575.py">
+    <entry file="file://$PROJECT_DIR$/fb/DecodeString575.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum402.py">
+    <entry file="file://$PROJECT_DIR$/fb/ContinuousSubarraySum402.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
@@ -893,14 +879,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntegertoEnglishWords1305.py">
+    <entry file="file://$PROJECT_DIR$/fb/IntegertoEnglishWords1305.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumSwap1095.py">
+    <entry file="file://$PROJECT_DIR$/fb/MaximumSwap1095.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -908,7 +894,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py">
+    <entry file="file://$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
@@ -916,14 +902,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IsGraphBipartite1031.py">
+    <entry file="file://$PROJECT_DIR$/fb/IsGraphBipartite1031.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py">
+    <entry file="file://$PROJECT_DIR$/fb/ExclusiveTimeofFunctions1116.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
@@ -931,7 +917,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NumberofLongestIncreasingSubsequence1903.py">
+    <entry file="file://$PROJECT_DIR$/fb/NumberofLongestIncreasingSubsequence1903.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -939,42 +925,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RotateBitsLeft723.py">
+    <entry file="file://$PROJECT_DIR$/fb/RotateBitsLeft723.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TargetSum1208.py">
+    <entry file="file://$PROJECT_DIR$/fb/TargetSum1208.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SubtreeofAnotherTree1165.py">
+    <entry file="file://$PROJECT_DIR$/fb/SubtreeofAnotherTree1165.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecoverBinarySearchTree691.py">
+    <entry file="file://$PROJECT_DIR$/fb/RecoverBinarySearchTree691.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LongestContinuousIncreasingSubsequence397.py">
+    <entry file="file://$PROJECT_DIR$/fb/LongestContinuousIncreasingSubsequence397.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddandSearchWordDatastructuredesign473.py">
+    <entry file="file://$PROJECT_DIR$/fb/AddandSearchWordDatastructuredesign473.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
@@ -982,70 +968,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSumIVInputisaBST689.py">
+    <entry file="file://$PROJECT_DIR$/fb/TwoSumIVInputisaBST689.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TotalHammingDistance1217.py">
+    <entry file="file://$PROJECT_DIR$/fb/TotalHammingDistance1217.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIndex1304.py">
+    <entry file="file://$PROJECT_DIR$/fb/HIndex1304.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MissingNumber196.py">
+    <entry file="file://$PROJECT_DIR$/fb/MissingNumber196.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TextJustification1361.py">
+    <entry file="file://$PROJECT_DIR$/fb/TextJustification1361.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SumofLeftLeaves1254.py">
+    <entry file="file://$PROJECT_DIR$/fb/SumofLeftLeaves1254.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LargestPlusSign1044.py">
+    <entry file="file://$PROJECT_DIR$/fb/LargestPlusSign1044.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DiameterofBinaryTree1181.py">
+    <entry file="file://$PROJECT_DIR$/fb/DiameterofBinaryTree1181.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CombinationSumIV564.py">
+    <entry file="file://$PROJECT_DIR$/fb/CombinationSumIV564.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SumoffirstKevenlengthPalindromenumbers744.py">
+    <entry file="file://$PROJECT_DIR$/fb/SumoffirstKevenlengthPalindromenumbers744.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
@@ -1059,7 +1045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExpressionAddOperators653.py">
+    <entry file="file://$PROJECT_DIR$/fb/ExpressionAddOperators653.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
@@ -1067,37 +1053,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountsMerge1070.py">
+    <entry file="file://$PROJECT_DIR$/fb/AccountsMerge1070.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MeetingRooms920.py">
+    <entry file="file://$PROJECT_DIR$/fb/MeetingRooms920.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HammingDistance835.py">
+    <entry file="file://$PROJECT_DIR$/fb/HammingDistance835.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses780.py">
+    <entry file="file://$PROJECT_DIR$/fb/RemoveInvalidParentheses780.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RearrangeaStringWithIntegers720.py">
+    <entry file="file://$PROJECT_DIR$/fb/RearrangeaStringWithIntegers720.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
@@ -1105,7 +1089,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IncreasingTripletSubsequence1287.py">
+    <entry file="file://$PROJECT_DIR$/fb/IncreasingTripletSubsequence1287.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="20" />
@@ -1113,7 +1097,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoveZeroes539.py">
+    <entry file="file://$PROJECT_DIR$/fb/MoveZeroes539.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
@@ -1121,7 +1105,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SplitArrayLargestSum1251.py">
+    <entry file="file://$PROJECT_DIR$/fb/SplitArrayLargestSum1251.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
@@ -1129,7 +1113,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestTimetoBuyandSellStockIII151.py">
+    <entry file="file://$PROJECT_DIR$/fb/BestTimetoBuyandSellStockIII151.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
@@ -1137,7 +1121,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumGap400.py">
+    <entry file="file://$PROJECT_DIR$/fb/MaximumGap400.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
@@ -1145,7 +1129,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PartitionList96.py">
+    <entry file="file://$PROJECT_DIR$/fb/PartitionList96.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
@@ -1153,23 +1137,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Combinations152.py">
+    <entry file="file://$PROJECT_DIR$/fb/Combinations152.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="375">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NQueens33.py">
+    <entry file="file://$PROJECT_DIR$/fb/NQueens33.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="375">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterleavingString29.py">
+    <entry file="file://$PROJECT_DIR$/fb/InterleavingString29.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
@@ -1177,10 +1161,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreePostorderTraversal68.py">
+    <entry file="file://$PROJECT_DIR$/fb/BinaryTreePostorderTraversal68.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/WordSubsets916.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/PartitionArrayintoDisjointIntervals915.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="527" column="0" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
