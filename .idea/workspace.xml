@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/OnlineElection911.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SmallestRangeI908.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SmallestRangeII910.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SnakesandLadders909.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SumofSubarrayMinimums907.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/FruitIntoBaskets904.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/GlobalandLocalInversions775.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/SortArrayByParity905.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/900plus/ValidPermutationsforDISequence903TBAAAAAAA.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dota2Senate649.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SumofSubarrayMinimums907.py" afterPath="$PROJECT_DIR$/900plus/SumofSubarrayMinimums907.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -45,6 +46,7 @@
     <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$SumofSubarrayMinimums907.coverage" NAME="SumofSubarrayMinimums907 Coverage Results" MODIFIED="1538481762678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,30 +60,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XofaKindinaDeckofCards914.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/900plus/XofaKindinaDeckofCards914.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CatandMouse913.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OnlineElection911.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/OnlineElection911.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="480">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="e#1125#1138#0" expanded="true" />
@@ -93,7 +75,7 @@
       <file leaf-file-name="SmallestRangeII910.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeII910.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
+            <state relative-caret-position="690">
               <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
               <folding />
             </state>
@@ -103,7 +85,7 @@
       <file leaf-file-name="SnakesandLadders909.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/SnakesandLadders909.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
+            <state relative-caret-position="1200">
               <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
               <folding />
             </state>
@@ -113,18 +95,68 @@
       <file leaf-file-name="SmallestRangeI908.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeI908.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="525">
               <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumofSubarrayMinimums907.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SumofSubarrayMinimums907.py">
+      <file leaf-file-name="SumofSubarrayMinimums907.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/SumofSubarrayMinimums907.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="244">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortArrayByParity905.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/SortArrayByParity905.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitIntoBaskets904.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/FruitIntoBaskets904.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidPermutationsforDISequence903TBAAAAAAA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/900plus/ValidPermutationsforDISequence903TBAAAAAAA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dota2Senate649.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dota2Senate649.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalandLocalInversions775.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/900plus/GlobalandLocalInversions775.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -145,11 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CalculateMaximumValue719.py" />
-        <option value="$PROJECT_DIR$/DecodeString575.py" />
-        <option value="$PROJECT_DIR$/ContinuousSubarraySum402.py" />
-        <option value="$PROJECT_DIR$/IntegertoEnglishWords1305.py" />
-        <option value="$PROJECT_DIR$/MaximumSwap1095.py" />
         <option value="$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays1083.py" />
         <option value="$PROJECT_DIR$/IsGraphBipartite1031.py" />
         <option value="$PROJECT_DIR$/ExclusiveTimeofFunctions1116.py" />
@@ -196,6 +223,11 @@
         <option value="$PROJECT_DIR$/900plus/SnakesandLadders909.py" />
         <option value="$PROJECT_DIR$/900plus/SmallestRangeI908.py" />
         <option value="$PROJECT_DIR$/SumofSubarrayMinimums907.py" />
+        <option value="$PROJECT_DIR$/900plus/SortArrayByParity905.py" />
+        <option value="$PROJECT_DIR$/900plus/FruitIntoBaskets904.py" />
+        <option value="$PROJECT_DIR$/900plus/ValidPermutationsforDISequence903.py" />
+        <option value="$PROJECT_DIR$/Dota2Senate649.py" />
+        <option value="$PROJECT_DIR$/900plus/GlobalandLocalInversions775.py" />
       </list>
     </option>
   </component>
@@ -206,10 +238,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="405" />
-    <option name="y" value="23" />
-    <option name="width" value="1001" />
-    <option name="height" value="830" />
+    <option name="x" value="480" />
+    <option name="y" value="372" />
+    <option name="width" value="860" />
+    <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -236,27 +268,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -280,25 +295,7 @@
       <recent name="$PROJECT_DIR$/fb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OnlineElection911">
-    <configuration default="false" name="InterleavingString29" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fb/InterleavingString29.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.SumofSubarrayMinimums907">
     <configuration default="false" name="WordSubsets916" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,6 +364,24 @@
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/OnlineElection911.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SumofSubarrayMinimums907" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/900plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/900plus/SumofSubarrayMinimums907.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -580,19 +595,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.InterleavingString29" />
-      <item index="1" class="java.lang.String" itemvalue="Python.WordSubsets916" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
-      <item index="3" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
-      <item index="4" class="java.lang.String" itemvalue="Python.OnlineElection911" />
+      <item index="0" class="java.lang.String" itemvalue="Python.WordSubsets916" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+      <item index="2" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OnlineElection911" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SumofSubarrayMinimums907" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.OnlineElection911" />
-        <item index="1" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
-        <item index="3" class="java.lang.String" itemvalue="Python.WordSubsets916" />
-        <item index="4" class="java.lang.String" itemvalue="Python.InterleavingString29" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SumofSubarrayMinimums907" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OnlineElection911" />
+        <item index="2" class="java.lang.String" itemvalue="Python.XofaKindinaDeckofCards914" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PartitionArrayintoDisjointIntervals915" />
+        <item index="4" class="java.lang.String" itemvalue="Python.WordSubsets916" />
       </list>
     </recent_temporary>
   </component>
@@ -610,10 +625,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="405" y="23" width="1001" height="830" extended-state="0" />
+    <frame x="480" y="372" width="860" height="719" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18769552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18704157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -624,7 +639,7 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3310811" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38950714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -825,50 +840,17 @@
           <line>73</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/900plus/SumofSubarrayMinimums907.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fb/DecodeString575.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/ContinuousSubarraySum402.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/IntegertoEnglishWords1305.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/MaximumSwap1095.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fb/MaximumSumof3NonOverlappingSubarrays1083.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fb/IsGraphBipartite1031.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1175,7 +1157,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/OnlineElection911.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="480">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="e#1125#1138#0" expanded="true" />
@@ -1185,7 +1167,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeII910.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="690">
           <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
           <folding />
         </state>
@@ -1193,7 +1175,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/SnakesandLadders909.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
+        <state relative-caret-position="1200">
           <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
           <folding />
         </state>
@@ -1201,16 +1183,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/900plus/SmallestRangeI908.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="525">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SumofSubarrayMinimums907.py">
+    <entry file="file://$PROJECT_DIR$/900plus/SumofSubarrayMinimums907.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="244">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/SortArrayByParity905.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/FruitIntoBaskets904.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/ValidPermutationsforDISequence903TBAAAAAAA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dota2Senate649.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/900plus/GlobalandLocalInversions775.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding />
         </state>
       </provider>

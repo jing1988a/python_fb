@@ -24,3 +24,19 @@ class Solution:
         :type A: List[int]
         :rtype: int
         """
+        mod=10**9+7
+        stack=[]
+        ans=dot=0
+        for i  , v in enumerate(A):
+            count=1
+            while stack and stack[-1][0]>=v:
+                x , c =stack.pop()
+                count+=c
+                dot-=x*c
+            stack.append([v , count])
+            dot+=v*count
+            ans+=dot
+        return ans%mod
+
+test=Solution()
+print(test.sumSubarrayMins([3,1,2,4]))
