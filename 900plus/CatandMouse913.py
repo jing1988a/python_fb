@@ -34,3 +34,12 @@
 # 3 <= graph.length <= 50
 # It is guaranteed that graph[1] is non-empty.
 # It is guaranteed that graph[2] contains a non-zero element.
+
+
+
+class Solution(object):
+    def catMouseGame(self, graph):
+        """
+        :type graph: List[List[int]]
+        :rtype: int
+        """
