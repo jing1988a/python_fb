@@ -30,34 +30,53 @@ class Solution:
 
     def asteroidCollision(self, asteroids):
         # write your code here
-
         l = len(asteroids)
         if l == 0:
             return []
-        rightStack = []
-        leftStack = []
-        for a in asteroids:
-            if a < 0:
-                destroyed=False
-                while rightStack:
-                    cur = rightStack[-1]
-                    if cur == -a:
-                        rightStack.pop()
-                        destroyed=True
-                        break
-                    elif cur > -a:
-                        destroyed = True
-                        break
-                    else:
-                        rightStack.pop()
-                if not destroyed:
-                    leftStack.append(a)
+        ans=[]
+        i=0
+        while i<l:
+            if asteroids[i]<0:
+                if not ans or ans[-1]<0:
+                    ans.append(asteroids[i])
+                elif ans[-1]<=-asteroids[i]:
+                    if ans[-1]<-asteroids[i]:
+                        i-=1
+                    ans.pop()
             else:
-                rightStack.append(a)
-            # print(rightStack)
-            # print(leftStack)
-            # print("")
-        return  leftStack+rightStack
+                ans.append(asteroids[i])
+            i+=1
+        return ans
+
+
+        # l = len(asteroids)
+        # if l == 0:
+        #     return []
+        # rightStack = []
+        # leftStack = []
+        # for a in asteroids:
+        #     if a < 0:
+        #         destroyed=False
+        #         while rightStack:
+        #             cur = rightStack[-1]
+        #             if cur == -a:
+        #                 rightStack.pop()
+        #                 destroyed=True
+        #                 break
+        #             elif cur > -a:
+        #                 destroyed = True
+        #                 break
+        #             else:
+        #                 rightStack.pop()
+        #         if not destroyed:
+        #             leftStack.append(a)
+        #     else:
+        #         rightStack.append(a)
+        #     # print(rightStack)
+        #     # print(leftStack)
+        #     # print("")
+        # return  leftStack+rightStack
 
 test=Solution()
 print(test.asteroidCollision([7,-1,2,-3,-6,-6,-6,4,10,2]))
+
