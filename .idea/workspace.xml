@@ -2,29 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/AerialMovie1636.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/IntervalSearch1564.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/KSubstringwithKdifferentcharacters1639.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/LeastSubstring1638.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/MinimumDifference1566.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/ModernLudoI1565.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/TreeProblem1637.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_dropbox/MedianoftwoSortedArrays65.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_dropbox/WordPatternII829.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_dropbox/wordBreakII582.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/AsteroidCollision1001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/IntersectionofArrays793.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/MinStack12.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/NumberofDistinctIslandsII804.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/ReadNCharactersGivenRead4IICallmultipletimes660.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/distinctIsland860.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/leetcode_DesignSearchAutocompleteSystem642.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/leetcode_maxStack716.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/numberOfIslandII434.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/perfectSquare513.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/2rdLargestInBST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/AlienDictionary892.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/GenerateParentheses427.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/LRUCache134.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/LetterCombinationsofaPhoneNumber425.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/LowestCommonAncestorofaBinaryTree88.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/ReverseInteger413.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/SmallestRange1117.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/StringCompression213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/SwapNodesinPairs451.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/TextJustification1361.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/TrappingRainWater363.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/WordLadderII121.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/allowDriveMode_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/leetcode_FindModeinBinarySearchTree501.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/leetcode_StringCompressionInPlace443.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/leetcode_UniquePathsII63.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/subset17.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/subset18_with_duplicate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lintcode_lyft/wordLadder120.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" afterPath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py" afterPath="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lintcode_lyft/MinStack12.py" afterPath="$PROJECT_DIR$/lintcode_lyft/MinStack12.py" />
     </list>
     <ignored path="python_fb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,6 +41,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_fb$OnlineElection911.coverage" NAME="OnlineElection911 Coverage Results" MODIFIED="1538418607892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofLongestIncreasingSubsequence1903.coverage" NAME="NumberofLongestIncreasingSubsequence1903 Coverage Results" MODIFIED="1537804580082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$leetcode_UniquePathsII63.coverage" NAME="leetcode_UniquePathsII63 Coverage Results" MODIFIED="1542124812447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$BeautifulArrangement990.coverage" NAME="BeautifulArrangement990 Coverage Results" MODIFIED="1537379232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$CompleteBinaryTreeInserter919.coverage" NAME="CompleteBinaryTreeInserter919 Coverage Results" MODIFIED="1538999338713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockIII151.coverage" NAME="BestTimetoBuyandSellStockIII151 Coverage Results" MODIFIED="1538051937250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,6 +53,7 @@
     <SUITE FILE_PATH="coverage/python_fb$SplitArrayLargestSum1251.coverage" NAME="SplitArrayLargestSum1251 Coverage Results" MODIFIED="1538049775958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$DigitalCoverage1397.coverage" NAME="DigitalCoverage1397 Coverage Results" MODIFIED="1539470044042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_recent" />
     <SUITE FILE_PATH="coverage/python_fb$NQueens33.coverage" NAME="NQueens33 Coverage Results" MODIFIED="1538056889105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$leetcode_FindModeinBinarySearchTree501.coverage" NAME="leetcode_FindModeinBinarySearchTree501 Coverage Results" MODIFIED="1542120353265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$MonotoneIncreasingDigits738.coverage" NAME="MonotoneIncreasingDigits738 Coverage Results" MODIFIED="1538575884784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$MeetingRooms920.coverage" NAME="MeetingRooms920 Coverage Results" MODIFIED="1537968851999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$AddandSearchWordDatastructuredesign473.coverage" NAME="AddandSearchWordDatastructuredesign473 Coverage Results" MODIFIED="1537886876110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,6 +64,7 @@
     <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$TreeProblem1637.coverage" NAME="TreeProblem1637 Coverage Results" MODIFIED="1541512070580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$SumofSubarrayMinimums907.coverage" NAME="SumofSubarrayMinimums907 Coverage Results" MODIFIED="1538481762678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$allowDriveMode_mianjing.coverage" NAME="allowDriveMode_mianjing Coverage Results" MODIFIED="1542122456532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$PyramidTransitionMatrix756.coverage" NAME="PyramidTransitionMatrix756 Coverage Results" MODIFIED="1538569638302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -69,8 +73,10 @@
     <SUITE FILE_PATH="coverage/python_fb$InterleavingString29.coverage" NAME="InterleavingString29 Coverage Results" MODIFIED="1538058260431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$FractionAdditionandSubtraction592.coverage" NAME="FractionAdditionandSubtraction592 Coverage Results" MODIFIED="1538661797993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$ExclusiveTimeofFunctions1116.coverage" NAME="ExclusiveTimeofFunctions1116 Coverage Results" MODIFIED="1537804138126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$GenerateParentheses427.coverage" NAME="GenerateParentheses427 Coverage Results" MODIFIED="1542031320265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$AsteroidCollision1001.coverage" NAME="AsteroidCollision1001 Coverage Results" MODIFIED="1541596439780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$ShortestCompletingWord748.coverage" NAME="ShortestCompletingWord748 Coverage Results" MODIFIED="1538571738654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$WordLadderII121.coverage" NAME="WordLadderII121 Coverage Results" MODIFIED="1541971267722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$LargestRectangleinHistogram122.coverage" NAME="LargestRectangleinHistogram122 Coverage Results" MODIFIED="1537461292601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ReachaNumber754.coverage" NAME="ReachaNumber754 Coverage Results" MODIFIED="1538570674991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -82,7 +88,10 @@
     <SUITE FILE_PATH="coverage/python_fb$DeleteandEarn740.coverage" NAME="DeleteandEarn740 Coverage Results" MODIFIED="1538573869851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$SingleElementinaSortedArray540.coverage" NAME="SingleElementinaSortedArray540 Coverage Results" MODIFIED="1538662309068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$MinimumDifference1566.coverage" NAME="MinimumDifference1566 Coverage Results" MODIFIED="1541519397372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$AlienDictionary892.coverage" NAME="AlienDictionary892 Coverage Results" MODIFIED="1541972043582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$WordSubsets916.coverage" NAME="WordSubsets916 Coverage Results" MODIFIED="1538398031098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$leetcode_StringCompressionInPlace443.coverage" NAME="leetcode_StringCompressionInPlace443 Coverage Results" MODIFIED="1542126051725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$LRUCache134.coverage" NAME="LRUCache134 Coverage Results" MODIFIED="1541689442470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$IntervalSearch1564.coverage" NAME="IntervalSearch1564 Coverage Results" MODIFIED="1541523981769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$KSubstringwithKdifferentcharacters1639.coverage" NAME="KSubstringwithKdifferentcharacters1639 Coverage Results" MODIFIED="1541434651570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumFrequencyStack895.coverage" NAME="MaximumFrequencyStack895 Coverage Results" MODIFIED="1539098745191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
@@ -97,101 +106,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="distinctIsland860.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/distinctIsland860.py">
+      <file leaf-file-name="AsteroidCollision1001.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lintcode_lyft/AsteroidCollision1001.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="65" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberofDistinctIslandsII804.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/NumberofDistinctIslandsII804.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_DesignSearchAutocompleteSystem642.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/leetcode_DesignSearchAutocompleteSystem642.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntersectionofTwoArrays547.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntersectionofTwoArraysII548.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntersectionofArrays793.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofArrays793.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="perfectSquare513.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/perfectSquare513.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numberOfIslandII434.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/numberOfIslandII434.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadNCharactersGivenRead4IICallmultipletimes660.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/ReadNCharactersGivenRead4IICallmultipletimes660.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinStack12.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lintcode_lyft/MinStack12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="219">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -212,26 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordFrequency192.py" />
-        <option value="$PROJECT_DIR$/900plus/ContainsDuplicateIII220.py" />
-        <option value="$PROJECT_DIR$/900plus/MaximumXORofTwoNumbersinanArray421.py" />
-        <option value="$PROJECT_DIR$/900plus/FlattenaMultilevelDoublyLinkedList430.py" />
-        <option value="$PROJECT_DIR$/900plus/132Pattern456.py" />
-        <option value="$PROJECT_DIR$/900plus/NumberofMusicPlaylists920.py" />
-        <option value="$PROJECT_DIR$/900plus/MaximumFrequencyStack895.py" />
-        <option value="$PROJECT_DIR$/900plus/CatandMouse913.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/MaximumSubarrayIV620.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/SpringTour1575.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/MusicPlaylist1574.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/AskingForTheLongest01Substring1572.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/LegalString1573.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/OrderOfTasks1465.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/PaperReview1463.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/KDecimalAddition1398.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/DigitalCoverage1397.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/SetUnion1396.py" />
-        <option value="$PROJECT_DIR$/lintcode_recent/FriendsOfAppropriateAges1393.py" />
         <option value="$PROJECT_DIR$/lintcode_recent/LeftmostOne898.py" />
         <option value="$PROJECT_DIR$/lintcode_recent/IslandCity897.py" />
         <option value="$PROJECT_DIR$/lintcode_recent/PrimeProduct896.py" />
@@ -256,13 +155,33 @@
         <option value="$PROJECT_DIR$/lintcode_lyft/distinctIsland860.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/NumberofDistinctIslandsII804.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/leetcode_DesignSearchAutocompleteSystem642.py" />
-        <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
-        <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofArrays793.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/perfectSquare513.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/numberOfIslandII434.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/ReadNCharactersGivenRead4IICallmultipletimes660.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/MinStack12.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/LRUCache134.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/WordLadderII121.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/wordLadder120.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/SmallestRange1117.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/StringCompression213.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/AlienDictionary892.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/LowestCommonAncestorofaBinaryTree88.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/subset17.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/subset18_with_duplicate.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/TextJustification1361.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/TrappingRainWater363.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/SwapNodesinPairs451.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/GenerateParentheses427.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/ReverseInteger413.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/2rdLargestInBST.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/leetcode_FindModeinBinarySearchTree501.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/allowDriveMode_mianjing.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/leetcode_UniquePathsII63.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/leetcode_StringCompressionInPlace443.py" />
+        <option value="$PROJECT_DIR$/lintcode_lyft/LetterCombinationsofaPhoneNumber425.py" />
       </list>
     </option>
   </component>
@@ -273,10 +192,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="45" />
-    <option name="width" value="793" />
-    <option name="height" value="814" />
+    <option name="x" value="64" />
+    <option name="y" value="83" />
+    <option name="width" value="803" />
+    <option name="height" value="753" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -303,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,6 +257,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,50 +275,17 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lintcode_lyft" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/900plus" />
       <recent name="$PROJECT_DIR$/fb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetcode_DesignSearchAutocompleteSystem642">
-    <configuration default="false" name="ModernLudoI1565" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/ModernLudoI1565.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="IntervalSearch1564" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/IntervalSearch1564.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="AsteroidCollision1001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.leetcode_StringCompressionInPlace443">
+    <configuration default="false" name="IntersectionofTwoArrays547" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -412,12 +298,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/AsteroidCollision1001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="distinctIsland860" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="leetcode_FindModeinBinarySearchTree501" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -430,12 +316,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/distinctIsland860.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/leetcode_FindModeinBinarySearchTree501.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="leetcode_DesignSearchAutocompleteSystem642" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="allowDriveMode_mianjing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -448,7 +334,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/leetcode_DesignSearchAutocompleteSystem642.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/allowDriveMode_mianjing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="leetcode_UniquePathsII63" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode_lyft" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/leetcode_UniquePathsII63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="leetcode_StringCompressionInPlace443" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode_lyft" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode_lyft/leetcode_StringCompressionInPlace443.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -662,19 +584,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ModernLudoI1565" />
-      <item index="1" class="java.lang.String" itemvalue="Python.IntervalSearch1564" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AsteroidCollision1001" />
-      <item index="3" class="java.lang.String" itemvalue="Python.distinctIsland860" />
-      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_DesignSearchAutocompleteSystem642" />
+      <item index="0" class="java.lang.String" itemvalue="Python.IntersectionofTwoArrays547" />
+      <item index="1" class="java.lang.String" itemvalue="Python.leetcode_FindModeinBinarySearchTree501" />
+      <item index="2" class="java.lang.String" itemvalue="Python.allowDriveMode_mianjing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.leetcode_UniquePathsII63" />
+      <item index="4" class="java.lang.String" itemvalue="Python.leetcode_StringCompressionInPlace443" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_DesignSearchAutocompleteSystem642" />
-        <item index="1" class="java.lang.String" itemvalue="Python.distinctIsland860" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AsteroidCollision1001" />
-        <item index="3" class="java.lang.String" itemvalue="Python.IntervalSearch1564" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ModernLudoI1565" />
+        <item index="0" class="java.lang.String" itemvalue="Python.leetcode_StringCompressionInPlace443" />
+        <item index="1" class="java.lang.String" itemvalue="Python.leetcode_UniquePathsII63" />
+        <item index="2" class="java.lang.String" itemvalue="Python.allowDriveMode_mianjing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leetcode_FindModeinBinarySearchTree501" />
+        <item index="4" class="java.lang.String" itemvalue="Python.IntersectionofTwoArrays547" />
       </list>
     </recent_temporary>
   </component>
@@ -701,28 +623,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="45" width="793" height="814" extended-state="0" />
+    <frame x="64" y="83" width="803" height="753" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2436751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29697767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779004" sideWeight="0.50328946" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3797277" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24905184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39558825" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38121548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39811066" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1036,155 +958,47 @@
           <line>65</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/LRUCache134.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/WordLadderII121.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/WordLadderII121.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/AlienDictionary892.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/GenerateParentheses427.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/leetcode_FindModeinBinarySearchTree501.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode_lyft/leetcode_UniquePathsII63.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="77" />
+      <option name="time" value="84" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WordFrequency192.py" />
-    <entry file="file://$PROJECT_DIR$/900plus/ContainsDuplicateIII220.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/MaximumXORofTwoNumbersinanArray421.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/FlattenaMultilevelDoublyLinkedList430.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/132Pattern456.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/MaximumFrequencyStack895.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/CatandMouse913.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumSubarrayIV620.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/SpringTour1575.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/900plus/NumberofMusicPlaylists920.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/MusicPlaylist1574.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/AskingForTheLongest01Substring1572.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/LegalString1573.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/OrderOfTasks1465.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/PaperReview1463.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/KDecimalAddition1398.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/DigitalCoverage1397.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/SetUnion1396.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_recent/FriendsOfAppropriateAges1393.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lintcode_recent/LeftmostOne898.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -1263,14 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/KSubstringwithKdifferentcharacters1639.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazon/LeastSubstring1638.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1300,14 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/ModernLudoI1565.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazon/IntervalSearch1564.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -1316,19 +1114,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_lyft/AsteroidCollision1001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lintcode_lyft/leetcode_maxStack716.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1344,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1352,30 +1140,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/KSubstringwithKdifferentcharacters1639.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py">
+    <entry file="file://$PROJECT_DIR$/amazon/ModernLudoI1565.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofArrays793.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="666">
+          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -1384,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1392,22 +1170,219 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lintcode_lyft/ReadNCharactersGivenRead4IICallmultipletimes660.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
+        <state relative-caret-position="396">
           <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lintcode_lyft/MinStack12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="351">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/LRUCache134.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/WordLadderII121.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="59" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/wordLadder120.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/StringCompression213.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/AlienDictionary892.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/LowestCommonAncestorofaBinaryTree88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/subset17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/subset18_with_duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/TextJustification1361.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/TrappingRainWater363.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/SwapNodesinPairs451.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/GenerateParentheses427.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/ReverseInteger413.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofArrays793.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/LetterCombinationsofaPhoneNumber425.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/leetcode_StringCompressionInPlace443.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/SmallestRange1117.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#633#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/leetcode_UniquePathsII63.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/allowDriveMode_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/leetcode_FindModeinBinarySearchTree501.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/2rdLargestInBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArraysII548.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode_lyft/AsteroidCollision1001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding />
         </state>
       </provider>

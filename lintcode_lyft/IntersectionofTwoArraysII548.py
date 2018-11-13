@@ -29,3 +29,25 @@ class Solution:
                 if s[n]==0:
                     del s[n]
         return ans
+
+        # if sorted
+        # l1 = len(nums1)
+        # if l1 == 0:
+        #     return []
+        # l2 = len(nums2)
+        # if l2 == 0:
+        #     return []
+        # i = 0
+        # j = 0
+        # ans = []
+        # while i < l1 and j < l2:
+        #     if nums1[i] == nums2[j]:
+        #         ans.append(nums1[i])
+        #         i += 1
+        #         j += 1
+        #     elif nums1[i] < nums2[j]:
+        #         i += 1
+        #     else:
+        #         j += 1
+        # return ans
+
