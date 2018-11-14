@@ -39,9 +39,10 @@ class Solution:
             if asteroids[i]<0:
                 if not ans or ans[-1]<0:
                     ans.append(asteroids[i])
-                elif ans[-1]<=-asteroids[i]:
-                    if ans[-1]<-asteroids[i]:
-                        i-=1
+                elif ans[-1]<-asteroids[i]:
+                    i-=1
+                    ans.pop()
+                elif ans[-1]==-asteroids[i]:
                     ans.pop()
             else:
                 ans.append(asteroids[i])

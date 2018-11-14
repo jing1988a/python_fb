@@ -6,26 +6,28 @@
 
 import collections
 
+
 class LRUCacheEasyWay:
     """
     @param: capacity: An integer
     """
+
     def __init__(self, capacity):
         # do intialization if necessary
-        self.d=collections.OrderedDict()
-        self.capacity=capacity
-
+        self.d = collections.OrderedDict()
+        self.capacity = capacity
 
     """
     @param: key: An integer
     @return: An integer
     """
+
     def get(self, key):
         # write your code here
         if not key in self.d:
             return -1
-        ans=self.d.pop(key)
-        self.d[key]=ans
+        ans = self.d.pop(key)
+        self.d[key] = ans
         return ans
 
     """
@@ -33,47 +35,50 @@ class LRUCacheEasyWay:
     @param: value: An integer
     @return: nothing
     """
+
     def set(self, key, value):
         # write your code here
         if key in self.d:
             self.d.pop(key)
-            self.d[key]=value
+            self.d[key] = value
         else:
-            if len(self.d)==self.capacity:
+            if len(self.d) == self.capacity:
                 self.d.popitem(last=False)
-            self.d[key]=value
-
-
+            self.d[key] = value
 
 
 class Node:
-    def __init__(self , v=-1 , key=None):
-        self.v=v
-        self.key=key
-        self.left=None
-        self.right=None
+    def __init__(self, v=None, key=None):
+        self.v = v
+        self.key = key
+        self.left = None
+        self.right = None
+
 
 class LRUCacheHardWay:
     """
     @param: capacity: An integer
     """
+
     def __init__(self, capacity):
         # do intialization if necessary
-        if capacity<1:
+        if capacity < 1:
             raise Exception('capacity can not be smaller than 1')
-        self.d=dict()
-        self.preHead=Node()
-        self.end=self.preHead
-        self.capacity=capacity
+        self.d = dict()
+        self.preHead = Node()
+        self.end = self.preHead
+        self.capacity = capacity
+
     """
     @param: key: An integer
     @return: An integer
     """
+
     def get(self, key):
         # write your code here
         if not key in self.d:
             return -1
-        cur=self.d[key]
+        cur = self.d[key]
         self.moveToEnd(cur)
         return cur.v
 
@@ -82,45 +87,46 @@ class LRUCacheHardWay:
     @param: value: An integer
     @return: nothing
     """
+
     def set(self, key, value):
         # write your code here
         if key in self.d:
-            cur=self.d[key]
-            cur.v=value
+            cur = self.d[key]
+            cur.v = value
             self.moveToEnd(cur)
         else:
-            if len(self.d)==self.capacity:
+            if len(self.d) == self.capacity:
                 self.removeHead()
-            cur=Node(value , key)
-            self.d[key]=cur
-            self.end.right=cur
-            cur.left=self.end
-            self.end=cur
+            cur = Node(value, key)
+            self.d[key] = cur
+            self.end.right = cur
+            cur.left = self.end
+            self.end = cur
+
     def removeHead(self):
-        head=self.preHead.right
-        headKey=head.key
+        head = self.preHead.right
+        headKey = head.key
         self.d.pop(headKey)
-        if self.end==head:
-            self.end=self.preHead
-            self.preHead.right=None
+        if self.end == head:
+            self.end = self.preHead
+            self.preHead.right = None
         else:
-            self.preHead.right=head.right
-            head.right.left=self.prehead
+            self.preHead.right = head.right
+            head.right.left = self.prehead
         del head
-    def moveToEnd(self , cur):
-        if self.end==cur:
+
+    def moveToEnd(self, cur):
+        if self.end == cur:
             return
-        cur.left.right=cur.right
-        cur.right.left=cur.left
-        cur.left=self.end
-        cur.right=None
-        self.end.right=cur
-        self.end=cur
+        cur.left.right = cur.right
+        cur.right.left = cur.left
+        cur.left = self.end
+        cur.right = None
+        self.end.right = cur
+        self.end = cur
 
 
-
-test=LRUCacheHardWay(2)
-
+test = LRUCacheHardWay(2)
 
 print(test.set(2, 1))
 print(test.set(1, 1))
@@ -128,15 +134,3 @@ print(test.get(2))
 print(test.set(4, 1))
 print(test.get(1))
 print(test.get(2))
-
-
-
-
-
-
-
-
-
-
-
-

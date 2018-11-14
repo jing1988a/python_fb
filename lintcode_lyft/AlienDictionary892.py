@@ -41,8 +41,6 @@ class Solution:
             return []
 
         graph, degree = self.constructGraph(words)
-        print(graph)
-        print(degree)
         q = []
         for c in degree:
             if degree[c] == 0:

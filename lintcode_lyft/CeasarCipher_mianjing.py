@@ -11,6 +11,6 @@ class Problem:
 
 
 a = 'xyz'
-
+print(ord('a'))
 test = Problem()
-print(test.cipher(a, 28))
+print(test.cipher(a, 26))

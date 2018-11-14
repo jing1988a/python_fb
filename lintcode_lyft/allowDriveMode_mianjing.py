@@ -14,30 +14,30 @@
 
 
 class Solution:
-    def allowDriverMode(self , shifts, current):
+    def allowDriverMode(self, shifts, current):
         # is it already sorted?
-        #[ [1 , 7]]  8  is this true or false???
-        l=len(shifts)
-        if l==0:
+        # [ [1 , 7]]  8  is this true or false???
+        l = len(shifts)
+        if l == 0:
             return True
-        i=l-1
-        total=0
-        nextStart=current
-        while i>-1:
-            if total>=12:
+        i = l - 1
+        total = 0
+        nextStart = current
+        while i > -1:
+            if total >= 12:
                 return False
-            if nextStart-shifts[i][1]>=8:
-                if total<12:
-                    return True
+            if nextStart - shifts[i][1] >= 8 and total < 12:
+                return True
             else:
-                total+=shifts[i][1]-shifts[i][0]
-                nextStart=shifts[i][0]
-            i-=1
+                total += shifts[i][1] - shifts[i][0]
+                nextStart = shifts[i][0]
+            i -= 1
 
         return True
 
-shifts=[(0, 4), (5, 9), (10, 14), (15, 19), (20, 24)]
-current=24
 
-test=Solution()
-print(test.allowDriverMode(shifts , current))
+shifts = [(0, 4), (5, 9), (10, 14), (15, 19), (20, 24)]
+current = 24
+
+test = Solution()
+print(test.allowDriverMode(shifts, current))

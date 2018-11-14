@@ -52,7 +52,6 @@ class Iter:
     def __init__(self , a , b):
         self.a=a
         self.b=b
-        self.used=True
         self.i=0
         self.j=0
         self.findNext()
