@@ -37,16 +37,17 @@ class MaxStack(object):
         :rtype: void
         """
         self.stack.append(x)
-        if x>=self.maxStack[-1]:
+        if not self.maxStack or x>=self.maxStack[-1]:
             self.maxStack.append(x)
+        else:
+            self.maxStack.append(self.maxStack[-1])
 
     def pop(self):
         """
         :rtype: int
         """
         cur=self.stack.pop()
-        if cur==self.maxStack[-1]:
-            self.maxStack.pop()
+        self.maxStack.pop()
         return cur
 
 
@@ -68,10 +69,12 @@ class MaxStack(object):
         :rtype: int
         """
         temp=[]
-        curMax=self.maxStack.pop()
-        while self.stack[-1]!=curMax:
+        curMax=self.maxStack[-1]
+        while self.stack[-1]!=self.maxStack[-1]:
             temp.append(self.stack.pop())
+            self.maxStack.pop()
         self.stack.pop()
+        self.maxStack.pop()
         while temp:
             self.push(temp.pop())
         return curMax
