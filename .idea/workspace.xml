@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/FloodFill733.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/InsertintoaBinarySearchTree701.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/KthLargestElementinaStream703.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/LongestWordinDictionary720.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/MaxAreaofIsland695.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" afterPath="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
     </list>
     <ignored path="python_fb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,6 +55,7 @@
     <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSumof3NonOverlappingSubarrays1083.coverage" NAME="MaximumSumof3NonOverlappingSubarrays1083 Coverage Results" MODIFIED="1537799713797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$BaseballGame682.coverage" NAME="BaseballGame682 Coverage Results" MODIFIED="1543505508197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$InterleavingString29.coverage" NAME="InterleavingString29 Coverage Results" MODIFIED="1538058260431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$FractionAdditionandSubtraction592.coverage" NAME="FractionAdditionandSubtraction592 Coverage Results" MODIFIED="1538661797993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$getTotalInLog_mianjing.coverage" NAME="getTotalInLog_mianjing Coverage Results" MODIFIED="1542133948993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
@@ -88,6 +84,7 @@
     <SUITE FILE_PATH="coverage/python_fb$WordSubsets916.coverage" NAME="WordSubsets916 Coverage Results" MODIFIED="1538398031098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$leetcode_StringCompressionInPlace443.coverage" NAME="leetcode_StringCompressionInPlace443 Coverage Results" MODIFIED="1542126051725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$sortLog.coverage" NAME="sortLog Coverage Results" MODIFIED="1542486855796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
+    <SUITE FILE_PATH="coverage/python_fb$TopKFrequentWords692.coverage" NAME="TopKFrequentWords692 Coverage Results" MODIFIED="1543504416379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$LRUCache134.coverage" NAME="LRUCache134 Coverage Results" MODIFIED="1541689442470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$BST_distance.coverage" NAME="BST_distance Coverage Results" MODIFIED="1542489565972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
     <SUITE FILE_PATH="coverage/python_fb$ReorderLogFiles937.coverage" NAME="ReorderLogFiles937 Coverage Results" MODIFIED="1543341726428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
@@ -110,18 +107,30 @@
       <file leaf-file-name="NumberofDistinctIslands694.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="1005">
               <caret line="67" column="0" selection-start-line="66" selection-start-column="25" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopKFrequentWords692.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TopKFrequentWords692.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="2" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="213">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+              <folding>
+                <element signature="e#973#991#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseballGame682.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="56" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -143,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lintcode_lyft/getTotalInLog_mianjing.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/parseLog_mianjing.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/IntersectionofTwoArrays547.py" />
         <option value="$PROJECT_DIR$/lintcode_lyft/CeasarCipher_mianjing.py" />
@@ -194,6 +202,7 @@
         <option value="$PROJECT_DIR$/amazon_leetcode/MaxAreaofIsland695.py" />
         <option value="$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py" />
         <option value="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py" />
       </list>
     </option>
   </component>
@@ -205,7 +214,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="641" />
-    <option name="y" value="123" />
+    <option name="y" value="124" />
     <option name="width" value="761" />
     <option name="height" value="580" />
   </component>
@@ -235,7 +244,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,6 +278,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,43 +307,7 @@
       <recent name="$PROJECT_DIR$/fb" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NumberofDistinctIslands694">
-    <configuration default="false" name="SnakesandLadders909" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/SnakesandLadders909.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ReorderLogFiles937" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/ReorderLogFiles937.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.BaseballGame682">
     <configuration default="false" name="AllNodesDistanceKinBinaryTree863" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,6 +358,42 @@
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TopKFrequentWords692" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BaseballGame682" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -598,19 +607,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SnakesandLadders909" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReorderLogFiles937" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AllNodesDistanceKinBinaryTree863" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PartitionLabels763" />
-      <item index="4" class="java.lang.String" itemvalue="Python.NumberofDistinctIslands694" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AllNodesDistanceKinBinaryTree863" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PartitionLabels763" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NumberofDistinctIslands694" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TopKFrequentWords692" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BaseballGame682" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NumberofDistinctIslands694" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PartitionLabels763" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AllNodesDistanceKinBinaryTree863" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReorderLogFiles937" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SnakesandLadders909" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BaseballGame682" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TopKFrequentWords692" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NumberofDistinctIslands694" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PartitionLabels763" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AllNodesDistanceKinBinaryTree863" />
       </list>
     </recent_temporary>
   </component>
@@ -640,7 +649,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="641" y="123" width="761" height="580" extended-state="0" />
+    <frame x="641" y="124" width="761" height="580" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23087622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -649,7 +658,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46530613" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46530613" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24905184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1054,14 +1063,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lintcode_lyft/LRUCache134.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lintcode_lyft/LowestCommonAncestorofaBinaryTree88.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1363,7 +1364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,7 +1371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1379,7 +1378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1387,7 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,13 +1392,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="1005">
           <caret line="67" column="0" selection-start-line="66" selection-start-column="25" selection-end-line="67" selection-end-column="0" />
           <folding />
         </state>
@@ -1409,8 +1405,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="2" selection-end-line="18" selection-end-column="58" />
+        <state relative-caret-position="213">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="e#973#991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="56" selection-end-column="25" />
           <folding />
         </state>
       </provider>

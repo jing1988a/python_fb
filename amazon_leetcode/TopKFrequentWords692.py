@@ -17,3 +17,30 @@
 # Input words contain only lowercase letters.
 # Follow up:
 # Try to solve it in O(n log k) time and O(n) extra space.
+
+
+import collections
+import heapq
+class Solution(object):
+    def topKFrequent(self, words, k):
+        """
+        :type words: List[str]
+        :type k: int
+        :rtype: List[str]
+        """
+        counter=collections.Counter(words)
+        hq=[]
+        for key , v in counter.items():
+
+            if len(hq)<k:
+                heapq.heappush(hq , (v, key))
+            else:
+                heapq.heappushpop(hq , (v , key))
+        ans=[]
+
+        while hq:
+            ans.append(heapq.heappop(hq)[1])
+        return ans
+
+test=Solution()
+print(test.topKFrequent(["i", "love", "leetcode", "i", "love", "coding"] , 2 ))
