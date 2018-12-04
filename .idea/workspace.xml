@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/CutOffTreesforGolfEvent675.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DesignInMemoryFileSystem588.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DesignSearchAutocompleteSystem642.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/FindDuplicateSubtrees652.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/FindKClosestElements658.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/PalindromicSubstrings647.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/RobotReturntoOrigin657.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/ValidParenthesisString678.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SubtreeofAnotherTree572.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/TheMaze490.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/fourSumII454.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -81,8 +82,10 @@
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$IncreasingTripletSubsequence1287.coverage" NAME="IncreasingTripletSubsequence1287 Coverage Results" MODIFIED="1537975705615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSumCircularSubarray918.coverage" NAME="MaximumSumCircularSubarray918 Coverage Results" MODIFIED="1539002355300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$CoinChange2518.coverage" NAME="CoinChange2518 Coverage Results" MODIFIED="1543937844271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$ModernLudoI1565.coverage" NAME="ModernLudoI1565 Coverage Results" MODIFIED="1541522736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSwap1095.coverage" NAME="MaximumSwap1095 Coverage Results" MODIFIED="1537796385166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$NextGreaterElementII503.coverage" NAME="NextGreaterElementII503 Coverage Results" MODIFIED="1543937886755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$XofaKindinaDeckofCards914.coverage" NAME="XofaKindinaDeckofCards914 Coverage Results" MODIFIED="1538402531309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$UniqueSubstring1481.coverage" NAME="UniqueSubstring1481 Coverage Results" MODIFIED="1543239050879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$CutOffTreesforGolfEvent675.coverage" NAME="CutOffTreesforGolfEvent675 Coverage Results" MODIFIED="1543860623240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
@@ -115,81 +118,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BaseballGame682.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py">
+      <file leaf-file-name="RobotRoomCleaner489.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RobotReturntoOrigin657.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotReturntoOrigin657.py">
+      <file leaf-file-name="fourSumII454.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon_leetcode/fourSumII454.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindDuplicateSubtrees652.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/FindDuplicateSubtrees652.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PalindromicSubstrings647.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/PalindromicSubstrings647.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="42" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesignSearchAutocompleteSystem642.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignSearchAutocompleteSystem642.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesignInMemoryFileSystem588.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignInMemoryFileSystem588.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeTwoBinaryTrees617.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesignCircularQueue622.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1007">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="110" selection-end-column="55" />
+            <state relative-caret-position="358">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -211,17 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/closestKpoint.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/oldQuestion.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/logFile.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/sortLog.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/maxFreqStr.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/BST_distance.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/2Sumof2Array.py" />
-        <option value="$PROJECT_DIR$/amazon/amazon_oa/Shortestpathtothedestination1563.py" />
-        <option value="$PROJECT_DIR$/amazon/BSTNodeDistance1561.py" />
-        <option value="$PROJECT_DIR$/amazon/MinimumSumPath1482.py" />
-        <option value="$PROJECT_DIR$/amazon/TheMostFrequentword1484.py" />
         <option value="$PROJECT_DIR$/amazon/UniqueSubstring1481.py" />
         <option value="$PROJECT_DIR$/amazon/DotProduct1480.py" />
         <option value="$PROJECT_DIR$/amazon/CanReachTheEndpoint1479.py" />
@@ -262,6 +194,17 @@
         <option value="$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py" />
         <option value="$PROJECT_DIR$/amazon/DesignCircularQueue622.py" />
         <option value="$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py" />
+        <option value="$PROJECT_DIR$/amazon/SubtreeofAnotherTree572.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/TheMaze490.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py" />
+        <option value="$PROJECT_DIR$/amazon_leetcode/fourSumII454.py" />
       </list>
     </option>
   </component>
@@ -272,10 +215,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="171" />
-    <option name="width" value="886" />
-    <option name="height" value="580" />
+    <option name="x" value="656" />
+    <option name="y" value="72" />
+    <option name="width" value="686" />
+    <option name="height" value="611" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -302,6 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -334,23 +278,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_fb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -369,6 +298,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lintcode_lyft" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/amazon_leetcode" />
       <recent name="$PROJECT_DIR$/amazon" />
@@ -376,47 +308,8 @@
       <recent name="$PROJECT_DIR$/900plus" />
       <recent name="$PROJECT_DIR$/fb" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lintcode_lyft" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.DesignCircularQueue622">
-    <configuration default="false" name="TopKFrequentWords692" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BaseballGame682" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.NextGreaterElementII503">
     <configuration default="false" name="CutOffTreesforGolfEvent675" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,6 +360,42 @@
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CoinChange2518" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NextGreaterElementII503" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -680,19 +609,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TopKFrequentWords692" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BaseballGame682" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CoinChange2518" />
+      <item index="4" class="java.lang.String" itemvalue="Python.NextGreaterElementII503" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BaseballGame682" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TopKFrequentWords692" />
+        <item index="0" class="java.lang.String" itemvalue="Python.NextGreaterElementII503" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CoinChange2518" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
       </list>
     </recent_temporary>
   </component>
@@ -722,28 +651,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="171" width="886" height="580" extended-state="0" />
+    <frame x="656" y="72" width="686" height="611" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19565217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779004" sideWeight="0.50328946" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33469388" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24905184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20023696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24905184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3941019" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3941019" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1136,78 +1065,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/getTopKmovie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/kSubStringWithKdifferentChar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/oldQuestion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/zeroToNine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/Shortestpathtothedestination1563.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/BST_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/MinimumSumPath1482.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/2Sumof2Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/BSTNodeDistance1561.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode.py" />
-    <entry file="file://$PROJECT_DIR$/amazon/ClosestTargetValue1478.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/ReorderLogFiles937.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -1405,7 +1262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1413,7 +1269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1421,7 +1276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1429,7 +1283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="67" column="0" selection-start-line="66" selection-start-column="25" selection-end-line="67" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1437,72 +1290,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="e#973#991#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="825">
           <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotReturntoOrigin657.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="555">
           <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/FindDuplicateSubtrees652.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="615">
           <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/PalindromicSubstrings647.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
+        <state relative-caret-position="390">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="42" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignSearchAutocompleteSystem642.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="1065">
           <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignInMemoryFileSystem588.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="1500">
           <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="585">
           <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1007">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="110" selection-end-column="55" />
+        <state relative-caret-position="133">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/SubtreeofAnotherTree572.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/TheMaze490.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_leetcode/fourSumII454.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
         </state>
       </provider>
