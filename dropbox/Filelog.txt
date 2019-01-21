@@ -1,0 +1,1 @@
+LogType.ERROR: this is an error messageLogType.ERROR: this is an error message at Dec 28 2018 11:50:59LogType.ERROR: this is an error message at Dec 28 2018 11:58:06LogType.ERROR: this is an error message at Dec 31 2018 10:35:55

@@ -1,18 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="Nosetests in DesignHitCounter362" />
+    </enabled-run-configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7d5ef-fe9a-47c6-b9c9-ca6e742559cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SubtreeofAnotherTree572.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/TheMaze490.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/fourSumII454.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/BinaryTreeLongestConsecutiveSequence298.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DesignSnakeGame353.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/DungeonGame174.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/FindKPairswithSmallestSums373.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/GuesstheWord843.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/LinkedListCycleII142.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/MissingRanges163.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SerializeandDeserializeBST449.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_leetcode/SerializeandDeserializeBinaryTree297.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/CombinationSumIII216.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/ValidSudoku36.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/blackList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/buildingSwap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/calcualte.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/change.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/closestInEachRow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/duplicateNum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/findLongestPath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/guessWord.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/isomorphicString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/lca_change.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/lockerMatrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/maxKproductInArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/scheduler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/stackImplementByHeap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_mianjing/treePathSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/Cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/CallCenter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/CardsGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/ChatApp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/LRU.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/parkingLot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon_ood/single.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/DesignHitCounter361_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/DesignHitCounter362.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/KVstoreWithTransaction_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/MinimizeMalwareSpread924.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/MultiBFStest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/PhoneWithWordpattern_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/ReadWriteLock_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/System design.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/TopKImg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/WebCrawler_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/WordPatternII291_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/allocateId_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/bitTorrent_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/conditionTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/deamonTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/eventTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/findbyteinafile_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/gameofLife289.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/kafka_xuexi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/logOOD.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/loggerOOD2_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/logger_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/numberOfIsland_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/pythonThread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/semaphoreTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/shapness_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/soda_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/taskDelay_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dropbox/tokenBucket_mianjing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/DesignLinkedList707.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/LoggerRateLimiter359.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/NumberofRecentCalls933.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/PalindromePermutation266.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/RotatedDigits788.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/SearchinaBinarySearchTree700.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/SentenceSimilarity734.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/easy/UniqueEmailAddresses929.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/CandyCrush723.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/ExamRoom855.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipEquivalentBinaryTrees951.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipStringtoMonotoneIncreasing926.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/GeneralizedAbbreviation320.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/GroupShiftedStrings249.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/KnightProbabilityinChessboard688.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/LargestBSTSubtree333.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/LongestLineofConsecutiveOneinMatrix562.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/MinimumAreaRectangle939.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/MostStonesRemovedwithSameRoworColumn947.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/OutputContestMatches544.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/PermutationSequence60_TLE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPickwithWeight528.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPointinNonoverlappingRectangles497_WRONG.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeAddition370.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeSumofBST938.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SearchinaSortedArrayofUnknownSize702.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceScreenFitting418_TLE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceSimilarityII737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SequenceReconstruction444.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SwapAdjacentinLRString777_TLE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/TheMazeII505.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/好咧,最后还是要搞google/medium/UniqueWordAbbreviation288.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py" afterPath="$PROJECT_DIR$/amazon_leetcode/MergeTwoBinaryTrees617.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python_fb.iws" />
@@ -27,87 +119,124 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_fb$OnlineElection911.coverage" NAME="OnlineElection911 Coverage Results" MODIFIED="1538418607892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$CombinationSumIII216.coverage" NAME="CombinationSumIII216 Coverage Results" MODIFIED="1544457529158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofLongestIncreasingSubsequence1903.coverage" NAME="NumberofLongestIncreasingSubsequence1903 Coverage Results" MODIFIED="1537804580082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$leetcode_UniquePathsII63.coverage" NAME="leetcode_UniquePathsII63 Coverage Results" MODIFIED="1542124812447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$NumberofDistinctIslands694.coverage" NAME="NumberofDistinctIslands694 Coverage Results" MODIFIED="1543502909151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$BeautifulArrangement990.coverage" NAME="BeautifulArrangement990 Coverage Results" MODIFIED="1537379232313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$CompleteBinaryTreeInserter919.coverage" NAME="CompleteBinaryTreeInserter919 Coverage Results" MODIFIED="1538999338713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$isomorphicString.coverage" NAME="isomorphicString Coverage Results" MODIFIED="1544387663157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$maxKproductInArray.coverage" NAME="maxKproductInArray Coverage Results" MODIFIED="1544392529846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
     <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockIII151.coverage" NAME="BestTimetoBuyandSellStockIII151 Coverage Results" MODIFIED="1538051937250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$NumberofIslandsII434.coverage" NAME="NumberofIslandsII434 Coverage Results" MODIFIED="1537382346272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$buildingSwap.coverage" NAME="buildingSwap Coverage Results" MODIFIED="1544392564544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$allocateId_mianjing.coverage" NAME="allocateId_mianjing Coverage Results" MODIFIED="1545507748026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$WordPatternII829.coverage" NAME="WordPatternII829 Coverage Results" MODIFIED="1541428799047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_dropbox" />
-    <SUITE FILE_PATH="coverage/python_fb$leetcode_DesignSearchAutocompleteSystem642.coverage" NAME="leetcode_DesignSearchAutocompleteSystem642 Coverage Results" MODIFIED="1541609915869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
-    <SUITE FILE_PATH="coverage/python_fb$test.coverage" NAME="test Coverage Results" MODIFIED="1539178790071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$MinimumHeightTrees1298.coverage" NAME="MinimumHeightTrees1298 Coverage Results" MODIFIED="1537385969554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$SplitArrayLargestSum1251.coverage" NAME="SplitArrayLargestSum1251 Coverage Results" MODIFIED="1538049775958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$DigitalCoverage1397.coverage" NAME="DigitalCoverage1397 Coverage Results" MODIFIED="1539470044042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_recent" />
-    <SUITE FILE_PATH="coverage/python_fb$zeroToNine.coverage" NAME="zeroToNine Coverage Results" MODIFIED="1542421544624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
-    <SUITE FILE_PATH="coverage/python_fb$AllNodesDistanceKinBinaryTree863.coverage" NAME="AllNodesDistanceKinBinaryTree863 Coverage Results" MODIFIED="1543343495900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$MultiBFStest.coverage" NAME="MultiBFStest Coverage Results" MODIFIED="1545504192608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$NQueens33.coverage" NAME="NQueens33 Coverage Results" MODIFIED="1538056889105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$KVstoreWithTransaction_mianjing.coverage" NAME="KVstoreWithTransaction_mianjing Coverage Results" MODIFIED="1545945832574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$leetcode_FindModeinBinarySearchTree501.coverage" NAME="leetcode_FindModeinBinarySearchTree501 Coverage Results" MODIFIED="1542120353265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$MonotoneIncreasingDigits738.coverage" NAME="MonotoneIncreasingDigits738 Coverage Results" MODIFIED="1538575884784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$PartitionLabels763.coverage" NAME="PartitionLabels763 Coverage Results" MODIFIED="1543421600220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$maxFreqStr.coverage" NAME="maxFreqStr Coverage Results" MODIFIED="1542486795441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
-    <SUITE FILE_PATH="coverage/python_fb$MeetingRooms920.coverage" NAME="MeetingRooms920 Coverage Results" MODIFIED="1537968851999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$2Sumof2Array.coverage" NAME="2Sumof2Array Coverage Results" MODIFIED="1542494664227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
+    <SUITE FILE_PATH="coverage/python_fb$single.coverage" NAME="single Coverage Results" MODIFIED="1544478828467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_ood" />
     <SUITE FILE_PATH="coverage/python_fb$AddandSearchWordDatastructuredesign473.coverage" NAME="AddandSearchWordDatastructuredesign473 Coverage Results" MODIFIED="1537886876110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$Combinations152.coverage" NAME="Combinations152 Coverage Results" MODIFIED="1538054436459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$PartitionArrayintoDisjointIntervals915.coverage" NAME="PartitionArrayintoDisjointIntervals915 Coverage Results" MODIFIED="1538399773982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$distinctIsland860.coverage" NAME="distinctIsland860 Coverage Results" MODIFIED="1541602138289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$RearrangeaStringWithIntegers720.coverage" NAME="RearrangeaStringWithIntegers720 Coverage Results" MODIFIED="1537973201621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$TreeProblem1637.coverage" NAME="TreeProblem1637 Coverage Results" MODIFIED="1541512070580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$SumofSubarrayMinimums907.coverage" NAME="SumofSubarrayMinimums907 Coverage Results" MODIFIED="1538481762678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$allowDriveMode_mianjing.coverage" NAME="allowDriveMode_mianjing Coverage Results" MODIFIED="1542122456532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$PyramidTransitionMatrix756.coverage" NAME="PyramidTransitionMatrix756 Coverage Results" MODIFIED="1538569638302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$ExpressionAddOperators653.coverage" NAME="ExpressionAddOperators653 Coverage Results" MODIFIED="1537967221498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$Powxn428.coverage" NAME="Powxn428 Coverage Results" MODIFIED="1537196221585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$DesignInMemoryFileSystem588.coverage" NAME="DesignInMemoryFileSystem588 Coverage Results" MODIFIED="1543872822417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
-    <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSumof3NonOverlappingSubarrays1083.coverage" NAME="MaximumSumof3NonOverlappingSubarrays1083 Coverage Results" MODIFIED="1537799713797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$BaseballGame682.coverage" NAME="BaseballGame682 Coverage Results" MODIFIED="1543505508197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$DesignSnakeGame353.coverage" NAME="DesignSnakeGame353 Coverage Results" MODIFIED="1544021718034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$DesignHitCounter361.coverage" NAME="DesignHitCounter361 Coverage Results" MODIFIED="1545414917780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$InterleavingString29.coverage" NAME="InterleavingString29 Coverage Results" MODIFIED="1538058260431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$FractionAdditionandSubtraction592.coverage" NAME="FractionAdditionandSubtraction592 Coverage Results" MODIFIED="1538661797993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$getTotalInLog_mianjing.coverage" NAME="getTotalInLog_mianjing Coverage Results" MODIFIED="1542133948993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
-    <SUITE FILE_PATH="coverage/python_fb$ExclusiveTimeofFunctions1116.coverage" NAME="ExclusiveTimeofFunctions1116 Coverage Results" MODIFIED="1537804138126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$semaphoreTest.coverage" NAME="semaphoreTest Coverage Results" MODIFIED="1545490481820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$GenerateParentheses427.coverage" NAME="GenerateParentheses427 Coverage Results" MODIFIED="1542031320265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$AsteroidCollision1001.coverage" NAME="AsteroidCollision1001 Coverage Results" MODIFIED="1542132453601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$ShortestCompletingWord748.coverage" NAME="ShortestCompletingWord748 Coverage Results" MODIFIED="1538571738654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$getTopKmovie.coverage" NAME="getTopKmovie Coverage Results" MODIFIED="1542473314255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
-    <SUITE FILE_PATH="coverage/python_fb$SnakesandLadders909.coverage" NAME="SnakesandLadders909 Coverage Results" MODIFIED="1543336359059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
-    <SUITE FILE_PATH="coverage/python_fb$WordLadderII121.coverage" NAME="WordLadderII121 Coverage Results" MODIFIED="1541971267722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$ReadWriteLock_mianjing.coverage" NAME="ReadWriteLock_mianjing Coverage Results" MODIFIED="1545770821192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$eventTest.coverage" NAME="eventTest Coverage Results" MODIFIED="1545491000385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
     <SUITE FILE_PATH="coverage/python_fb$LargestRectangleinHistogram122.coverage" NAME="LargestRectangleinHistogram122 Coverage Results" MODIFIED="1537461292601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fb$ReachaNumber754.coverage" NAME="ReachaNumber754 Coverage Results" MODIFIED="1538570674991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$blackList.coverage" NAME="blackList Coverage Results" MODIFIED="1544110689831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
     <SUITE FILE_PATH="coverage/python_fb$CeasarCipher_mianjing.coverage" NAME="CeasarCipher_mianjing Coverage Results" MODIFIED="1542208221192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
-    <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$lockerMatrix.coverage" NAME="lockerMatrix Coverage Results" MODIFIED="1544468926922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
     <SUITE FILE_PATH="coverage/python_fb$IncreasingTripletSubsequence1287.coverage" NAME="IncreasingTripletSubsequence1287 Coverage Results" MODIFIED="1537975705615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$MaximumSumCircularSubarray918.coverage" NAME="MaximumSumCircularSubarray918 Coverage Results" MODIFIED="1539002355300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$MostStonesRemovedwithSameRoworColumn947.coverage" NAME="MostStonesRemovedwithSameRoworColumn947 Coverage Results" MODIFIED="1547052932444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/好咧,最后还是要搞google" />
     <SUITE FILE_PATH="coverage/python_fb$CoinChange2518.coverage" NAME="CoinChange2518 Coverage Results" MODIFIED="1543937844271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
-    <SUITE FILE_PATH="coverage/python_fb$ModernLudoI1565.coverage" NAME="ModernLudoI1565 Coverage Results" MODIFIED="1541522736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumSwap1095.coverage" NAME="MaximumSwap1095 Coverage Results" MODIFIED="1537796385166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_fb$NextGreaterElementII503.coverage" NAME="NextGreaterElementII503 Coverage Results" MODIFIED="1543937886755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$XofaKindinaDeckofCards914.coverage" NAME="XofaKindinaDeckofCards914 Coverage Results" MODIFIED="1538402531309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$UniqueSubstring1481.coverage" NAME="UniqueSubstring1481 Coverage Results" MODIFIED="1543239050879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
-    <SUITE FILE_PATH="coverage/python_fb$CutOffTreesforGolfEvent675.coverage" NAME="CutOffTreesforGolfEvent675 Coverage Results" MODIFIED="1543860623240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$DeleteandEarn740.coverage" NAME="DeleteandEarn740 Coverage Results" MODIFIED="1538573869851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$SingleElementinaSortedArray540.coverage" NAME="SingleElementinaSortedArray540 Coverage Results" MODIFIED="1538662309068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$MinimumDifference1566.coverage" NAME="MinimumDifference1566 Coverage Results" MODIFIED="1541519397372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$DesignCircularQueue622.coverage" NAME="DesignCircularQueue622 Coverage Results" MODIFIED="1543874878968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
-    <SUITE FILE_PATH="coverage/python_fb$BSTNodeDistance1561.coverage" NAME="BSTNodeDistance1561 Coverage Results" MODIFIED="1542819130632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$taskDelay_mianjing.coverage" NAME="taskDelay_mianjing Coverage Results" MODIFIED="1546270644933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$SequenceReconstruction444.coverage" NAME="SequenceReconstruction444 Coverage Results" MODIFIED="1548079156198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/好咧,最后还是要搞google/medium" />
     <SUITE FILE_PATH="coverage/python_fb$AlienDictionary892.coverage" NAME="AlienDictionary892 Coverage Results" MODIFIED="1541972043582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$WordSubsets916.coverage" NAME="WordSubsets916 Coverage Results" MODIFIED="1538398031098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
     <SUITE FILE_PATH="coverage/python_fb$leetcode_StringCompressionInPlace443.coverage" NAME="leetcode_StringCompressionInPlace443 Coverage Results" MODIFIED="1542126051725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$LRUCache134.coverage" NAME="LRUCache134 Coverage Results" MODIFIED="1541689442470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$ReorderLogFiles937.coverage" NAME="ReorderLogFiles937 Coverage Results" MODIFIED="1543341726428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$KSubstringwithKdifferentcharacters1639.coverage" NAME="KSubstringwithKdifferentcharacters1639 Coverage Results" MODIFIED="1541434651570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$calcualte.coverage" NAME="calcualte Coverage Results" MODIFIED="1544110186814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$OnlineElection911.coverage" NAME="OnlineElection911 Coverage Results" MODIFIED="1538418607892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$PhoneWithWordpattern_mianjing.coverage" NAME="PhoneWithWordpattern_mianjing Coverage Results" MODIFIED="1545843489911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$leetcode_UniquePathsII63.coverage" NAME="leetcode_UniquePathsII63 Coverage Results" MODIFIED="1542124812447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$CompleteBinaryTreeInserter919.coverage" NAME="CompleteBinaryTreeInserter919 Coverage Results" MODIFIED="1538999338713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$lca_change.coverage" NAME="lca_change Coverage Results" MODIFIED="1544056391415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$NumberofIslandsII434.coverage" NAME="NumberofIslandsII434 Coverage Results" MODIFIED="1537382346272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$BinaryTreeLongestConsecutiveSequence298.coverage" NAME="BinaryTreeLongestConsecutiveSequence298 Coverage Results" MODIFIED="1544722855647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$leetcode_DesignSearchAutocompleteSystem642.coverage" NAME="leetcode_DesignSearchAutocompleteSystem642 Coverage Results" MODIFIED="1541609915869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$test.coverage" NAME="test Coverage Results" MODIFIED="1539178790071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$MinimumHeightTrees1298.coverage" NAME="MinimumHeightTrees1298 Coverage Results" MODIFIED="1537385969554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$change.coverage" NAME="change Coverage Results" MODIFIED="1544646092049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$SplitArrayLargestSum1251.coverage" NAME="SplitArrayLargestSum1251 Coverage Results" MODIFIED="1538049775958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$DigitalCoverage1397.coverage" NAME="DigitalCoverage1397 Coverage Results" MODIFIED="1539470044042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_recent" />
+    <SUITE FILE_PATH="coverage/python_fb$zeroToNine.coverage" NAME="zeroToNine Coverage Results" MODIFIED="1542421544624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
+    <SUITE FILE_PATH="coverage/python_fb$AllNodesDistanceKinBinaryTree863.coverage" NAME="AllNodesDistanceKinBinaryTree863 Coverage Results" MODIFIED="1543343495900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$PartitionLabels763.coverage" NAME="PartitionLabels763 Coverage Results" MODIFIED="1543421600220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$MeetingRooms920.coverage" NAME="MeetingRooms920 Coverage Results" MODIFIED="1537968851999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$tokenBucket_mianjing.coverage" NAME="tokenBucket_mianjing Coverage Results" MODIFIED="1545755435932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$MinimumPathSum110.coverage" NAME="MinimumPathSum110 Coverage Results" MODIFIED="1537461755514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$allowDriveMode_mianjing.coverage" NAME="allowDriveMode_mianjing Coverage Results" MODIFIED="1542122456532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$pythonThread.coverage" NAME="pythonThread Coverage Results" MODIFIED="1545493125994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$DesignInMemoryFileSystem588.coverage" NAME="DesignInMemoryFileSystem588 Coverage Results" MODIFIED="1543872822417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$ContinuousSubarraySum402.coverage" NAME="ContinuousSubarraySum402 Coverage Results" MODIFIED="1537793195574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$BaseballGame682.coverage" NAME="BaseballGame682 Coverage Results" MODIFIED="1543505508197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$FractionAdditionandSubtraction592.coverage" NAME="FractionAdditionandSubtraction592 Coverage Results" MODIFIED="1538661797993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$ExclusiveTimeofFunctions1116.coverage" NAME="ExclusiveTimeofFunctions1116 Coverage Results" MODIFIED="1537804138126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$deamonTest.coverage" NAME="deamonTest Coverage Results" MODIFIED="1545687824886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$conditionTest.coverage" NAME="conditionTest Coverage Results" MODIFIED="1545491615040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$duplicateNum.coverage" NAME="duplicateNum Coverage Results" MODIFIED="1544056401451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$closestInEachRow.coverage" NAME="closestInEachRow Coverage Results" MODIFIED="1544646275873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$Nosetests_in_DesignHitCounter362.coverage" NAME="Nosetests in DesignHitCounter362 Coverage Results" MODIFIED="1545408444049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$getTopKmovie.coverage" NAME="getTopKmovie Coverage Results" MODIFIED="1542473314255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
+    <SUITE FILE_PATH="coverage/python_fb$SnakesandLadders909.coverage" NAME="SnakesandLadders909 Coverage Results" MODIFIED="1543336359059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$WordLadderII121.coverage" NAME="WordLadderII121 Coverage Results" MODIFIED="1541971267722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
+    <SUITE FILE_PATH="coverage/python_fb$logOOD.coverage" NAME="logOOD Coverage Results" MODIFIED="1545951337733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$BestTimetoBuyandSellStockwithTransactionFee1000.coverage" NAME="BestTimetoBuyandSellStockwithTransactionFee1000 Coverage Results" MODIFIED="1537279014034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$treePathSum.coverage" NAME="treePathSum Coverage Results" MODIFIED="1544377762468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_mianjing" />
+    <SUITE FILE_PATH="coverage/python_fb$MaximumSumCircularSubarray918.coverage" NAME="MaximumSumCircularSubarray918 Coverage Results" MODIFIED="1539002355300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$ModernLudoI1565.coverage" NAME="ModernLudoI1565 Coverage Results" MODIFIED="1541522736348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$NextGreaterElementII503.coverage" NAME="NextGreaterElementII503 Coverage Results" MODIFIED="1543937886755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$UniqueSubstring1481.coverage" NAME="UniqueSubstring1481 Coverage Results" MODIFIED="1543239050879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
+    <SUITE FILE_PATH="coverage/python_fb$logger_mianjing.coverage" NAME="logger_mianjing Coverage Results" MODIFIED="1545947252357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$CutOffTreesforGolfEvent675.coverage" NAME="CutOffTreesforGolfEvent675 Coverage Results" MODIFIED="1543860623240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
+    <SUITE FILE_PATH="coverage/python_fb$SingleElementinaSortedArray540.coverage" NAME="SingleElementinaSortedArray540 Coverage Results" MODIFIED="1538662309068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
+    <SUITE FILE_PATH="coverage/python_fb$loggerOOD2_mianjing.coverage" NAME="loggerOOD2_mianjing Coverage Results" MODIFIED="1546270555741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$soda_mianjing.coverage" NAME="soda_mianjing Coverage Results" MODIFIED="1545927841742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
+    <SUITE FILE_PATH="coverage/python_fb$BSTNodeDistance1561.coverage" NAME="BSTNodeDistance1561 Coverage Results" MODIFIED="1542819130632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$sortLog.coverage" NAME="sortLog Coverage Results" MODIFIED="1542486855796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
     <SUITE FILE_PATH="coverage/python_fb$TopKFrequentWords692.coverage" NAME="TopKFrequentWords692 Coverage Results" MODIFIED="1543504416379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
-    <SUITE FILE_PATH="coverage/python_fb$LRUCache134.coverage" NAME="LRUCache134 Coverage Results" MODIFIED="1541689442470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode_lyft" />
     <SUITE FILE_PATH="coverage/python_fb$BST_distance.coverage" NAME="BST_distance Coverage Results" MODIFIED="1542489565972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
-    <SUITE FILE_PATH="coverage/python_fb$ReorderLogFiles937.coverage" NAME="ReorderLogFiles937 Coverage Results" MODIFIED="1543341726428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$IntervalSearch1564.coverage" NAME="IntervalSearch1564 Coverage Results" MODIFIED="1541523981769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
-    <SUITE FILE_PATH="coverage/python_fb$KSubstringwithKdifferentcharacters1639.coverage" NAME="KSubstringwithKdifferentcharacters1639 Coverage Results" MODIFIED="1541434651570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon" />
     <SUITE FILE_PATH="coverage/python_fb$MaximumFrequencyStack895.coverage" NAME="MaximumFrequencyStack895 Coverage Results" MODIFIED="1539098745191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/900plus" />
-    <SUITE FILE_PATH="coverage/python_fb$4Sum58.coverage" NAME="4Sum58 Coverage Results" MODIFIED="1537447944649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fb$DungeonGame174.coverage" NAME="DungeonGame174 Coverage Results" MODIFIED="1544726945378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon_leetcode" />
     <SUITE FILE_PATH="coverage/python_fb$logFile.coverage" NAME="logFile Coverage Results" MODIFIED="1542486327869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
     <SUITE FILE_PATH="coverage/python_fb$closestKpoint.coverage" NAME="closestKpoint Coverage Results" MODIFIED="1542404935448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazon/amazon_oa" />
+    <SUITE FILE_PATH="coverage/python_fb$Nosetests_in_test.coverage" NAME="Nosetests in test Coverage Results" MODIFIED="1545926287016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dropbox" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -118,21 +247,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RobotRoomCleaner489.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py">
+      <file leaf-file-name="RangeSumofBST938.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeSumofBST938.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+            <state relative-caret-position="-15">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fourSumII454.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amazon_leetcode/fourSumII454.py">
+      <file leaf-file-name="DesignLinkedList707.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/DesignLinkedList707.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="100">
+              <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceSimilarityII737.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceSimilarityII737.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceSimilarity734.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/SentenceSimilarity734.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotatedDigits788.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/RotatedDigits788.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePermutation266.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/PalindromePermutation266.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchinaBinarySearchTree700.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/SearchinaBinarySearchTree700.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipEquivalentBinaryTrees951.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipEquivalentBinaryTrees951.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MostStonesRemovedwithSameRoworColumn947.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/MostStonesRemovedwithSameRoworColumn947.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSubarrayIV620.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MaximumSubarrayIV620.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,57 +363,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/amazon/UniqueSubstring1481.py" />
-        <option value="$PROJECT_DIR$/amazon/DotProduct1480.py" />
-        <option value="$PROJECT_DIR$/amazon/CanReachTheEndpoint1479.py" />
-        <option value="$PROJECT_DIR$/amazon/ClosestTargetValue1478.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/ReorderLogFiles937.py" />
-        <option value="$PROJECT_DIR$/amazon/SnakesandLadders909.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/SnakesandLadders909.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/AllNodesDistanceKinBinaryTree863.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/LemonadeChange860.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/RectangleOverlap836.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/mostCommonWord819.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/PreimageSizeofFactorialZeroesFunction793.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/CheapestFlightsWithinKStops787.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/CustomSortString791.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/MinimumDistanceBetweenBSTNodes783.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/JewelsandStones771.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/ReorganizeString767.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/PartitionLabels763.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/MinCostClimbingStairs746.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/DailyTemperatures739.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/FloodFill733.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/LongestWordinDictionary720.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/KthLargestElementinaStream703.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/InsertintoaBinarySearchTree701.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/MaxAreaofIsland695.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/ValidParenthesisString678.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/CutOffTreesforGolfEvent675.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/FindKClosestElements658.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/RobotReturntoOrigin657.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/FindDuplicateSubtrees652.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/PalindromicSubstrings647.py" />
-        <option value="$PROJECT_DIR$/amazon/DesignSearchAutocompleteSystem642.py" />
-        <option value="$PROJECT_DIR$/amazon/DesignInMemoryFileSystem588.py" />
-        <option value="$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py" />
-        <option value="$PROJECT_DIR$/amazon/DesignCircularQueue622.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py" />
-        <option value="$PROJECT_DIR$/amazon/SubtreeofAnotherTree572.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/TheMaze490.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py" />
-        <option value="$PROJECT_DIR$/amazon_leetcode/fourSumII454.py" />
+        <option value="$PROJECT_DIR$/dropbox/PhoneWithWordpattern_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/test.py" />
+        <option value="$PROJECT_DIR$/dropbox/soda_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/tokenBucket_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/logger_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/logOOD.py" />
+        <option value="$PROJECT_DIR$/dropbox/Filelog.txt" />
+        <option value="$PROJECT_DIR$/dropbox/loggerOOD2_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/allocateId_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/KVstoreWithTransaction_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/WordPatternII291_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/findbyteinafile_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/kafka_xuexi.py" />
+        <option value="$PROJECT_DIR$/dropbox/taskDelay_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/TopKImg.py" />
+        <option value="$PROJECT_DIR$/dropbox/WebCrawler_mianjing.py" />
+        <option value="$PROJECT_DIR$/dropbox/System design.py" />
+        <option value="$PROJECT_DIR$/dropbox/ReadWriteLock_mianjing.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/MostStonesRemovedwithSameRoworColumn947.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/LoggerRateLimiter359.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/LoggerRateLimiter359.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/UniqueEmailAddresses929.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/NumberofRecentCalls933.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SequenceReconstruction444.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/UniqueWordAbbreviation288.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/LargestBSTSubtree333.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SwapAdjacentinLRString777_TLE.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/ExamRoom855.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/TheMazeII505.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceScreenFitting418.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/PermutationSequence60_TLE.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPointinNonoverlappingRectangles497_WRONG.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPickwithWeight528.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/KnightProbabilityinChessboard688.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/LongestLineofConsecutiveOneinMatrix562.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipStringtoMonotoneIncreasing926.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/MinimumAreaRectangle939.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/GroupShiftedStrings249.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/GeneralizedAbbreviation320.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SearchinaSortedArrayofUnknownSize702.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeAddition370.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/CandyCrush723.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/OutputContestMatches544.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeSumofBST938.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/DesignLinkedList707.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceSimilarityII737.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/SentenceSimilarity734.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/RotatedDigits788.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/PalindromePermutation266.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/easy/SearchinaBinarySearchTree700.py" />
+        <option value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipEquivalentBinaryTrees951.py" />
       </list>
     </option>
   </component>
@@ -215,10 +424,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="656" />
-    <option name="y" value="72" />
-    <option name="width" value="686" />
-    <option name="height" value="611" />
+    <option name="x" value="333" />
+    <option name="y" value="76" />
+    <option name="width" value="1013" />
+    <option name="height" value="653" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -245,7 +454,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -274,12 +482,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="amazon_leetcode" />
+              <option name="myItemId" value="好咧,最后还是要搞google" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_fb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="好咧,最后还是要搞google" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -298,104 +529,104 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/好咧,最后还是要搞google/medium" />
+      <recent name="$PROJECT_DIR$/好咧,最后还是要搞google/easy" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/amazon_leetcode" />
+      <recent name="$PROJECT_DIR$/amazon_mianjing" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lintcode_lyft" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/amazon_leetcode" />
-      <recent name="$PROJECT_DIR$/amazon" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/900plus" />
-      <recent name="$PROJECT_DIR$/fb" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.NextGreaterElementII503">
-    <configuration default="false" name="CutOffTreesforGolfEvent675" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SequenceReconstruction444">
+    <configuration default="false" name="logOOD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dropbox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/CutOffTreesforGolfEvent675.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dropbox/logOOD.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="DesignInMemoryFileSystem588" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="loggerOOD2_mianjing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dropbox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/DesignInMemoryFileSystem588.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dropbox/loggerOOD2_mianjing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="DesignCircularQueue622" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="taskDelay_mianjing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dropbox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dropbox/taskDelay_mianjing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="CoinChange2518" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="MostStonesRemovedwithSameRoworColumn947" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/好咧,最后还是要搞google" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/MostStonesRemovedwithSameRoworColumn947.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="NextGreaterElementII503" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SequenceReconstruction444" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon_leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/好咧,最后还是要搞google/medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_fb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/好咧,最后还是要搞google/medium/SequenceReconstruction444.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -609,19 +840,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CoinChange2518" />
-      <item index="4" class="java.lang.String" itemvalue="Python.NextGreaterElementII503" />
+      <item index="0" class="java.lang.String" itemvalue="Python.logOOD" />
+      <item index="1" class="java.lang.String" itemvalue="Python.loggerOOD2_mianjing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.taskDelay_mianjing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MostStonesRemovedwithSameRoworColumn947" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SequenceReconstruction444" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NextGreaterElementII503" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CoinChange2518" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DesignCircularQueue622" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DesignInMemoryFileSystem588" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CutOffTreesforGolfEvent675" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SequenceReconstruction444" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MostStonesRemovedwithSameRoworColumn947" />
+        <item index="2" class="java.lang.String" itemvalue="Python.taskDelay_mianjing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.loggerOOD2_mianjing" />
+        <item index="4" class="java.lang.String" itemvalue="Python.logOOD" />
       </list>
     </recent_temporary>
   </component>
@@ -641,6 +872,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 46m 42s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 47m 50s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 50m 08s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 50m 32s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 55m 15s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 56m 44s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 56m 57s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 57m 06s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 57m 36s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test - 2018.12.27 at 10h 58m 13s.xml">
+      <configuration name="Nosetests in test" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -651,16 +914,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="656" y="72" width="686" height="611" extended-state="0" />
+    <frame x="333" y="76" width="1013" height="653" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19565217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1915551" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779004" sideWeight="0.50328946" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24905184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2488532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -668,12 +931,33 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.318555" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3941019" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39240506" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779004" sideWeight="0.50328946" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33258426" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34450403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2488532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39240506" sideWeight="0.49671054" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1065,365 +1349,388 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/ReorderLogFiles937.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/MinimizeMalwareSpread924.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+        <state relative-caret-position="1065">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/sortLog.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/PhoneWithWordpattern_mianjing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="256">
+          <caret line="193" column="45" selection-start-line="193" selection-start-column="45" selection-end-line="193" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/maxFreqStr1484.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/numberOfIsland_mianjing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        <state relative-caret-position="1215">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/UniqueSubstring1481.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/DotProduct1480.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/WebCrawler_mianjing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="224">
+          <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/CanReachTheEndpoint1479.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/kafka_xuexi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/loggerOOD2_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/taskDelay_mianjing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="61" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon_oa/closestKpoint.py">
+    <entry file="file://$PROJECT_DIR$/dropbox/TopKImg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="-105">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/System design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="128" column="43" selection-start-line="128" selection-start-column="43" selection-end-line="128" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/WordPatternII291_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/tokenBucket_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/findbyteinafile_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/soda_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/ReadWriteLock_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="32" selection-start-line="159" selection-start-column="32" selection-end-line="159" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/KVstoreWithTransaction_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="118" column="45" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/UniqueWordAbbreviation288.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SequenceReconstruction444.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dropbox/allocateId_mianjing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/SnakesandLadders909.py">
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/LoggerRateLimiter359.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="326">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/UniqueEmailAddresses929.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/NumberofRecentCalls933.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/LargestBSTSubtree333.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/AllNodesDistanceKinBinaryTree863.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/LemonadeChange860.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/RectangleOverlap836.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/TheMostFrequentword1484.py">
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SwapAdjacentinLRString777_TLE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/mostCommonWord819.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/PreimageSizeofFactorialZeroesFunction793.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/CheapestFlightsWithinKStops787.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/CustomSortString791.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/MinimumDistanceBetweenBSTNodes783.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/JewelsandStones771.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/ReorganizeString767.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/PartitionLabels763.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/MinCostClimbingStairs746.py">
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/TheMazeII505.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DailyTemperatures739.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/KthLargestElementinaStream703.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/MaxAreaofIsland695.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/InsertintoaBinarySearchTree701.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/FloodFill733.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/LongestWordinDictionary720.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/FindKClosestElements658.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/CutOffTreesforGolfEvent675.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/ValidParenthesisString678.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/NumberofDistinctIslands694.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="67" column="0" selection-start-line="66" selection-start-column="25" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/TopKFrequentWords692.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/BaseballGame682.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotReturntoOrigin657.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/FindDuplicateSubtrees652.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/PalindromicSubstrings647.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="42" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignSearchAutocompleteSystem642.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignInMemoryFileSystem588.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/MergeTwoBinaryTrees617.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DesignCircularQueue622.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/SubtreeofAnotherTree572.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/SubarraySumEqualsK560.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/BoundaryofBinaryTree545.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/DiameterofBinaryTree543.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/EncodeandDecodeTinyURL535.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/NextGreaterElementII503.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/CoinChange2518.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/NextGreaterElementI496.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/TheMaze490.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/RobotRoomCleaner489.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon_leetcode/fourSumII454.py">
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/PermutationSequence60_TLE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPointinNonoverlappingRectangles497_WRONG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/PermutationSequence60_TLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceScreenFitting418_TLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/RandomPickwithWeight528.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/ExamRoom855.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/KnightProbabilityinChessboard688.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/LongestLineofConsecutiveOneinMatrix562.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipStringtoMonotoneIncreasing926.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/MinimumAreaRectangle939.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/GroupShiftedStrings249.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/GeneralizedAbbreviation320.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SearchinaSortedArrayofUnknownSize702.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeAddition370.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/CandyCrush723.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/OutputContestMatches544.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/RangeSumofBST938.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/DesignLinkedList707.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/SentenceSimilarityII737.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/SentenceSimilarity734.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/RotatedDigits788.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/PalindromePermutation266.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/easy/SearchinaBinarySearchTree700.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/FlipEquivalentBinaryTrees951.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/好咧,最后还是要搞google/medium/MostStonesRemovedwithSameRoworColumn947.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumSubarrayIV620.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
